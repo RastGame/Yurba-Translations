@@ -1,0 +1,1706 @@
+{
+    "ver": "2.2.6",
+    "lang": "English",
+    "author": "Yurba.one",
+    "lost_connection": "The connection has been lost...",
+    "reached_end_list": "You have reached the end of the list.",
+    "copied": "Copied!",
+    "reposted": "The post is now on your wall!",
+    "not_saved": "You have unsaved changes.",
+    "picker": "Pick an emoji",
+    "errors": {
+        "404": {
+            "title": "This content is currently unavailable",
+            "description": "The author of the material may have distributed it only to a small group of people, changed its audience, or deleted it.",
+            "button": "Return"
+        }
+    },
+    "update": {
+        "title": "Outdated version",
+        "description": "Yurba has been updated to version %s. Please update the web app for smooth work.",
+        "button": "Update"
+    },
+    "banned": {
+        "title": "Account blocked",
+        "description": "You have been blocked for violating <a href='https://docs.yurba.one/tof'>Terms of Use</a> Yurba. Unblocked date: <b>%s</b><br ><br>If you do not agree with this, you can contact the email address: <a href='mailto:support@yurba.one'>support@yurba.one</a>",
+        "button": "Exit"
+    },
+    "deleted": {
+        "title": "Account deleted",
+        "description": "You have deleted your account %s. You can restore it before the freeze expires.<br><br>Deletion deadline: <b>%s</b>.",
+        "exit": "Exit",
+        "restore": "Restore"
+    },
+    "disconnect": {
+        "title": "No connection",
+        "description": "Error connecting to the server, try reloading the page",
+        "button": "Reload"
+    },
+    "notifications": {
+        "title": "Notifications",
+        "new_friend_request": "%s has sent you a friend request",
+        "accept_friend_request": "%s has accepted your friend request",
+        "post_mention": "%s mentioned you in a post",
+        "comment_mention": "%s mentioned you in a comment",
+        "post_like": "%s liked your post",
+        "comment_like": "%s liked your comment",
+        "post_on_wall": "%s posted on your wall",
+        "comment_post": "%s commented on your post",
+        "gift": "%s sent you a gift",
+        "errors": {
+            "post_not_found": {
+                "title": "Oops! This post does not exist.",
+                "button": "Close"
+            },
+            "comment_not_found": {
+                "title": "Oops! This comment does not exist.",
+                "button": "Close"
+            }
+        }
+    },
+    "sidebar": {
+        "menu": "Menu",
+        "other": "Other",
+        "news": "Newspaper",
+        "profile": "Profile",
+        "messages": "Messages",
+        "friends": "Friends",
+        "search": "Search",
+        "groups": "Groups",
+        "photos": "Photos",
+        "music": "Music",
+        "treasury": "Treasury",
+        "projects": "Projects",
+        "shop": "Shop",
+        "cdn": "Content Delivery",
+        "settings": "Settings",
+        "dev": "For developers",
+        "golink": "GOLink",
+        "void": "VOIDSERVER"
+    },
+    "navbar": {
+        "search": "Search...",
+        "themes": {
+            "light": "Light Theme",
+            "dark": "Dark Theme"
+        },
+        "loginAccount": "Add an account",
+        "logout": "Logout",
+        "home": "Home",
+        "notifications": "Notifs",
+        "messages": "Messages",
+        "menu": "Menu"
+    },
+    "badges": {
+        "verify": {
+            "default": {
+                "title": "Official profile",
+                "description": "The administration of Yurba recognized %s profile as real"
+            },
+            "gov": {
+                "title": "Government account",
+                "description": "is an endorsed government agency, individual or company"
+            },
+            "org": {
+                "title": "Organization",
+                "description": "is an official representative of the company or organization on Yurba"
+            }
+        },
+        "creative": {
+            "title": "Development Assistant",
+            "description": "%s has made creative contributions to the Yurba community"
+        },
+        "post_author": {
+            "title": "Post author",
+            "description": "The comment is attributed to the author of the post"
+        },
+        "chat": {
+            "verify": {
+                "default": {
+                    "title": "Official chat",
+                    "description": "The administration of Yurba recognized chat %s as real"
+                }
+            }
+        },
+        "sub": {
+            "title": "So shiny!",
+            "description": "is %s subscriber"
+        },
+        "sub_feature": {
+            "title": "YurbaPlus Feature",
+            "description": "This feature is only available to YurbaPlus subscribers"
+        },
+        "prem_feature": {
+            "title": "Yurba Premium Feature",
+            "description": "This feature is only available to YurbaPlus subscribers"
+        },
+        "branch": {
+            "title": "Branch",
+            "description": "This account is an affiliate of %s account."
+        }
+    },
+    "online": {
+        "title": "Online",
+        "online": "now is online.",
+        "offline": {
+            "title": "Offline",
+            "default": "was",
+            "recent": "was recently",
+            "few_days_ago": "was few days ago",
+            "this_week": "was this week",
+            "this_month": "was this month",
+            "long_ago": "was a long time ago"
+        },
+        "dont_disturb": {
+            "title": "Don't disturb",
+            "description": "is busy"
+        },
+        "moved_away": {
+            "title": "Out of office",
+            "description": "moved away"
+        }
+    },
+    "relationships": {
+        "strangers": "Add friend",
+        "me_subscribed": "Abort request",
+        "he_subscribed": "Accept request",
+        "friends": "Unfriend",
+        "ignore": "Decline accept"
+    },
+    "civil_status": {
+        "0": "I prefer not to speak",
+        "1": "Not married",
+        "2": "In relationship",
+        "3": "In love",
+        "4": "Married"
+    },
+    "time": {
+        "ago": "ago",
+        "just_now": "just now",
+        "seconds1": "second",
+        "seconds2": "seconds",
+        "seconds3": "seconds",
+        "minutes1": "minute",
+        "minutes2": "minutes",
+        "minutes3": "minutes",
+        "hours1": "hour",
+        "hours2": "hours",
+        "hours3": "hours",
+        "days1": "day",
+        "days2": "days",
+        "days3": "days",
+        "weeks1": "week",
+        "weeks2": "weeks",
+        "weeks3": "weeks",
+        "months1": "month",
+        "months2": "months",
+        "months3": "months",
+        "years1": "year",
+        "years2": "years",
+        "years3": "years"
+    },
+    "month": {
+        "10": "October",
+        "11": "November",
+        "12": "December",
+        "01": "January",
+        "02": "February",
+        "03": "March",
+        "04": "April",
+        "05": "May",
+        "06": "June",
+        "07": "July",
+        "08": "August",
+        "09": "September"
+    },
+    "sub": {
+        "title": "Subscriptions",
+        "month": "month",
+        "have": "Cancel the monthly fee",
+        "active": "Subscription active",
+        "privilegesText": "PRIVILEGES",
+        "additionalText": "ADDITIONAL",
+        "buttons": {
+            "close": "Close",
+            "choose": "Choose plan",
+            "gift": "Gift"
+        },
+        "plus": {
+            "privileges": {
+                "0": {
+                    "title": "Animated Icon",
+                    "desc": "Your profile will have the same animated icon as above. It will be next to your name."
+                },
+                "1": {
+                    "title": "Total Freedom",
+                    "desc": "Feel no limits! <b>X3</b> Text limit in posts increased from 800 to <b>3000</b>, in comments - from 200 to <b>600</b> characters."
+                },
+                "2": {
+                    "title": "Add All Your Friends",
+                    "desc": "<b>X5</b> Limit on adding friends. Now the maximum is not 50, but 250 friends."
+                },
+                "3": {
+                    "title": "Out of Range",
+                    "desc": "Enable full anonymity mode – outsiders won't be able to see either your online status or your last login."
+                },
+                "4": {
+                    "title": "No Ads",
+                    "desc": "You won't see any ads from Yurba while using the network anymore."
+                },
+                "5": {
+                    "title": "Message Restriction",
+                    "desc": "Say 'no' to messages from strangers - allow messages only for friends and followers of Yurba."
+                },
+                "7": {
+                    "title": "Activity Viewing",
+                    "desc": "Get access to viewing the latest activity of other users, even while hiding yours."
+                }
+            },
+            "additional": {
+                "0": {
+                    "title": "More Media in Posts",
+                    "desc": "Now attachments in your post can contain up to <b>10</b> photos instead of 4."
+                },
+                "1": {
+                    "title": "Time to Write a Bio!",
+                    "desc": "Now you have an unlimited number of <a href='https://go.yurba.one'>GOLink</a> profiles, as well as up to 20 links and the ability to add covers for them."
+                },
+                "2": {
+                    "title": "Editable Icon",
+                    "desc": "Now you can set any emoji on your subscriber badge."
+                },
+                "3": {
+                    "title": "Access to Store",
+                    "desc": "Want to further personalize your profile? Great! Get access to an exclusive cosmetic store."
+                }
+            },
+            "buy": "Hello! I would like to purchase a Yurba Plus subscription for 1 month.",
+            "gift": "Hello! I would like to purchase a Yurba Plus subscription as a gift for 1 month."
+        },
+        "premium": {
+            "privileges": {
+                "0": {
+                    "title": "Subscriber Badge",
+                    "desc": "Your profile will have the same badge as above. It will be next to your name."
+                },
+                "1": {
+                    "title": "More Freedom",
+                    "desc": "<b>X2</b> Text limit in posts increased from 800 to <b>1500</b>, in comments - from 200 to <b>400</b> characters."
+                },
+                "2": {
+                    "title": "More Opportunities for Connections",
+                    "desc": "<b>X2</b> Limit on adding friends. Now the maximum is not 50, but 100 friends."
+                },
+                "3": {
+                    "title": "Partial Concealment",
+                    "desc": "You'll be able to hide your last login from others with one click, but not your online status."
+                },
+                "4": {
+                    "title": "No Ads",
+                    "desc": "You won't see any ads from Yurba while using the network anymore."
+                },
+                "5": {
+                    "title": "Message Restriction",
+                    "desc": "Say 'no' to messages from strangers - allow messages only for friends and followers of Yurba."
+                }
+            },
+            "additional": {
+                "0": {
+                    "title": "More Media in Posts",
+                    "desc": "Now attachments in your post can contain up to <b>6</b> photos instead of 4."
+                },
+                "2": {
+                    "title": "Covers for Links",
+                    "desc": "Now you have the ability to add covers for links <a href='https://go.yurba.one'>GOLink</a>."
+                }
+            },
+            "buy": "Hello! I would like to purchase a Yurba Premium subscription for 1 month.",
+            "gift": "Hello! I would like to purchase a Yurba Premium subscription as a gift for 1 month."
+        }
+    },
+    "auth": {
+        "title": "Social network «Yurba»",
+        "text1": "Join <span class='fw-bolder'>Yurba</span> and communicate with your family, friends, familiars and subscribers.",
+        "text2": "Share posts or create your own community in messenger to attract new audiences!",
+        "android": "Download our app on Android to always be in touch",
+        "windows": "App for personal computers on Windows",
+        "footer": {
+            "dev": "For developers",
+            "tof": "Terms of Use",
+            "privacy": "Privacy Policy"
+        },
+        "login": {
+            "title": "Welcome Back!",
+            "description": "Sign in to continue to Yurba.",
+            "email": {
+                "title": "E-mail",
+                "placeholder": "Enter e-mail"
+            },
+            "password": {
+                "title": "Password",
+                "placeholder": "Enter password"
+            },
+            "forgot": "Forgot Password?",
+            "button": "Sign In",
+            "link": "Don't have an account? <a href='/register/' class='text-primary fw-semibold'>Signup now</a>",
+            "photo": "Photo:",
+            "errors": {
+                "user": {
+                    "title": "Error! User not found.",
+                    "button": "Close"
+                },
+                "password": {
+                    "title": "Error! Incorrect password.",
+                    "button": "Close"
+                },
+                "attempts": {
+                    "title": "Error! Too many attempts. Try a little later.",
+                    "button": "Close"
+                }
+            }
+        },
+        "oauth": {
+            "title": "Grant Permission",
+            "description": "App %s is requesting access to your account.",
+            "pos1": {
+                "title": "Access to basic data",
+                "description": "The application will only have access to your basic data, such as ID, first name, last name, avatar and registration date."
+            },
+            "pos2": {
+                "title": "Access ever",
+                "description": "By having a limited token, the application can receive data at any time until you delete it."
+            },
+            "pos3": {
+                "title": "Items that will not be accessed",
+                "description": "The application does not have access to the password, IP and all other data, and will not be able to perform any actions with the account."
+            },
+            "button": "Allow"
+        },
+        "reset": {
+            "title": "Forgot password?",
+            "description": "We will help you recover your password.",
+            "email": {
+                "title": "E-mail",
+                "placeholder": "Enter e-mail"
+            },
+            "button": "Continue",
+            "link": "Remembered the password? <a href='/login' class='text-primary fw-semibold'> Sign in</a>",
+            "photo": "Photo:",
+            "errors": {
+                "email": {
+                    "title": "Error! E-mail is invalid.",
+                    "button": "Close"
+                },
+                "user": {
+                    "title": "Error! User not found.",
+                    "button": "Close"
+                },
+                "attempts": {
+                    "title": "Error! Too many attempts. Try a little later.",
+                    "button": "Close"
+                }
+            },
+            "success": {
+                "title": "Success! An email has been sent to your mailbox.",
+                "button": "Close"
+            },
+            "password": {
+                "new": {
+                    "title": "New password",
+                    "placeholder": "Enter new password"
+                },
+                "confirm": {
+                    "title": "Confirm password",
+                    "placeholder": "Confirm new password"
+                },
+                "button": "Continue",
+                "errors": {
+                    "match": {
+                        "title": "Error! Passwords don't match.",
+                        "button": "Close"
+                    },
+                    "code": {
+                        "title": "Error! The code is invalid.",
+                        "button": "Close"
+                    },
+                    "short": {
+                        "title": "Error! Password is too short.",
+                        "button": "Close"
+                    }
+                },
+                "success": {
+                    "title": "Success! The password has been changed.",
+                    "button": "To login page"
+                }
+            }
+        },
+        "register": {
+            "title": "Create an Account",
+            "description": "Get your free Yurba account now.",
+            "name": {
+                "title": "Name",
+                "placeholder": "Enter your name"
+            },
+            "surname": {
+                "title": "Surname (Optional)",
+                "placeholder": "Enter your surname"
+            },
+            "email": {
+                "title": "E-mail",
+                "placeholder": "Enter your e-mail"
+            },
+            "password": {
+                "title": "Password",
+                "placeholder": "Enter your password"
+            },
+            "confirm": {
+                "title": "Confirm password",
+                "placeholder": "Confirm your password"
+            },
+            "tof": "I'm agree with Yurba's <a href='https://docs.yurba.one/tof'>TOF</a>",
+            "button": "Continue",
+            "link": "Already registered? <a href='/login' class='text-primary fw-semibold'> Sign in</a>",
+            "errors": {
+                "match": {
+                    "title": "Error! Passwords don't match.",
+                    "button": "Close"
+                },
+                "name": {
+                    "title": "Error! Name is too short.",
+                    "button": "Close"
+                },
+                "password": {
+                    "title": "Error! Password is too short.",
+                    "button": "Close"
+                },
+                "email_taken": {
+                    "title": "Error! E-mail already taken.",
+                    "button": "Close"
+                },
+                "email": {
+                    "title": "Error! E-mail is invalid.",
+                    "button": "Close"
+                }
+            },
+            "success": {
+                "title": "Success! An email has been sent to your mailbox.",
+                "button": "To login page"
+            }
+        },
+        "activation": {
+            "title": "Activation",
+            "description": "Please, complete the captcha",
+            "button": "Confirm",
+            "errors": {
+                "captcha": {
+                    "title": "Error! Captcha failed.",
+                    "button": "Close"
+                },
+                "code": {
+                    "title": "Error! The code is invalid.",
+                    "button": "Close"
+                }
+            },
+            "success": {
+                "title": "Success! The account has been verified.",
+                "button": "To login page"
+            }
+        }
+    },
+    "feed": {
+        "recommendations": "Recommendations",
+        "friends": "Friends",
+        "all": "All posts"
+    },
+    "search": {
+        "type": {
+            "title": "Search type",
+            "users": "Users",
+            "chats": "Chats",
+            "music": "Music"
+        },
+        "people": {
+            "sort": {
+                "title": "Sort",
+                "relevant": "By relevance",
+                "popularity": "By popularity",
+                "alphabet": "By alphabet"
+            },
+            "location": {
+                "title": "Location",
+                "country": "Country",
+                "region": "Region",
+                "city": "City"
+            },
+            "work": {
+                "title": "Place of work",
+                "placeholder": "User works at..."
+            },
+            "relationships": {
+                "title": "Civil Status",
+                "placeholder": "Not selected"
+            },
+            "additional": {
+                "title": "Additional",
+                "online": "Now online",
+                "avatar": "Have an avatar"
+            }
+        },
+        "chats": {
+            "sort": {
+                "title": "Sort",
+                "relevant": "By relevance",
+                "popularity": "By popularity",
+                "alphabet": "By alphabet"
+            },
+            "type": {
+                "title": "Chat Type",
+                "placeholder": "Not selected",
+                "group": "Group",
+                "channel": "Channel"
+            },
+            "location": {
+                "title": "Location",
+                "country": "Country"
+            },
+            "topic": {
+                "1": "Education and development",
+                "2": "Hobbies and interests",
+                "3": "Work and career",
+                "4": "Society and culture",
+                "5": "Technology and Science",
+                "6": "Entertainment and communication",
+                "7": "Health and lifestyle",
+                "8": "Travel",
+                "9": "Business and Finance",
+                "10": "Local Communities",
+                "11": "Personal blog",
+                "title": "Topic",
+                "placeholder": "Not selected"
+            },
+            "go": "Forward"
+        },
+        "button": "Apply"
+    },
+    "profile": {
+        "banned": "The user has been banned for violating platform rules",
+        "deleted": "The user has deleted his account",
+        "stats": {
+            "posts1": "post",
+            "posts2": "posts",
+            "posts3": "posts",
+            "friends1": "friend",
+            "friends2": "friends",
+            "friends3": "friends",
+            "followers1": "follower",
+            "followers2": "followers",
+            "followers3": "followers"
+        },
+        "ad": "Advertisement",
+        "actions": {
+            "edit": "Edit profile",
+            "write": "Write a message"
+        },
+        "tabs": {
+            "wall": "Wall",
+            "about": "About",
+            "friends": "Friends",
+            "groups": "Groups",
+            "gifts": "Gifts",
+            "media": "Media"
+        },
+        "wall": {
+            "languageSelect": {
+                "none": "All languages",
+                "eng": "English",
+                "uk": "Ukranian",
+                "ru": "Russian",
+                "selected": {
+                    "english": "For English-speaking people",
+                    "ukranian": "For Ukranian-speaking people",
+                    "russian": "For Russian-speaking people"
+                }
+            },
+            "languages": {
+                "lang1": "Posted in English",
+                "lang2": "Posted in Ukrainian",
+                "lang3": "Posted in Russian"
+            },
+            "nsfw": "When Spoiler enabled, all media materials will be blurred, but when you hover over them they will be shown",
+            "about": {
+                "title": "About",
+                "more": "More information..."
+            },
+            "friends": {
+                "title": "Friends",
+                "more": "more"
+            },
+            "gifts": {
+                "title": "Gifts",
+                "more": "more"
+            },
+            "repost": {
+                "wall": "To my wall",
+                "message": "In message"
+            },
+            "new": {
+                "postPreview": "Post preview",
+                "context": {
+                    "copy": "Copy",
+                    "paste": "Paste",
+                    "highlight": "Highlight all",
+                    "clear": "Clear",
+                    "link": "Add link",
+                    "additional": "Additional",
+                    "formatting": "Formatting",
+                    "bold": "Bold",
+                    "italic": "Italic",
+                    "monosphere": "Monosphere",
+                    "crossed": "Crossed out",
+                    "underlined": "Underlined",
+                    "trs": "Translucent",
+                    "article": "Quote",
+                    "lowercase": "Make lowercase",
+                    "capital": "Make capitalize",
+                    "uppercase": "Make uppercase"
+                },
+                "link": {
+                    "title": "Add a URL",
+                    "url": {
+                        "title": "URL",
+                        "placeholder": "Your URL..."
+                    },
+                    "text": {
+                        "title": "Text",
+                        "placeholder": "Your text"
+                    },
+                    "button": "Add link"
+                },
+                "post": "Post on %s wall",
+                "description": "This post will be seen by everyone who has access to your page and posts",
+                "textarea": "Start typing...",
+                "button": "Publish",
+                "statuses": {
+                    "success": {
+                        "title": "Success! The post has been published.",
+                        "button": "Reload"
+                    }
+                }
+            },
+            "post": {
+                "copy": "Copy text",
+                "link": "Copy link",
+                "translate": "Translate to English",
+                "analytics": "Analytics",
+                "ocr": "Text recognition",
+                "report": "Report",
+                "not_interesting": "Not interesting in",
+                "not_interesting_action": "We will try to show fewer posts like this",
+                "edit": "Edit",
+                "delete": "Delete",
+                "minutes": "min. to read",
+                "readmore": {
+                    "title": "Read more...",
+                    "close": "Close"
+                },
+                "delete_confirm": {
+                    "title": "Are you sure?",
+                    "description": "This action will cause the post to be deleted completely. Not even tech support will be able to restore it",
+                    "confirm": "Confirm",
+                    "cancel": "Cancel"
+                },
+                "edit_modal": {
+                    "title": "Edit post",
+                    "save": "Save changes",
+                    "error": {
+                        "title": "Oops! Something went wrong",
+                        "button": "Close"
+                    },
+                    "success": {
+                        "title": "Success! Changes have been made.",
+                        "button": "Close"
+                    }
+                }
+            }
+        },
+        "about": {
+            "info": "About",
+            "general": "General",
+            "birthday": "Birthday",
+            "relationships": "Civil Status",
+            "country": "Country",
+            "city": "City",
+            "location": "Location",
+            "work": "Place of work",
+            "website": "Website",
+            "native": "Native city",
+            "languages": "Languages",
+            "tag": "Tag",
+            "id": "ID",
+            "since": "Since"
+        }
+    },
+    "comments": {
+        "title": "Comments",
+        "comment": {
+            "copy": "Copy",
+            "reply": "Reply",
+            "delete": "Delete",
+            "report": "Report",
+            "delete_confirm": {
+                "title": "Are you sure?",
+                "description": "This action will cause the post to be deleted completely. Not even tech support will be able to restore it",
+                "confirm": "Confirm",
+                "cancel": "Cancel"
+            }
+        },
+        "more": "Show more comments..."
+    },
+    "messages": {
+        "title": "Messages",
+        "chats": "Chats",
+        "start_conversation": "Start a new conversation",
+        "search_people": "Search for a people",
+        "loading": "Loading...",
+        "creating_dm": "Creating dialog...",
+        "chat_start": "Select a chat to start messaging",
+        "you": "You",
+        "photos1": "image",
+        "photos2": "images",
+        "photos3": "images",
+        "attachments1": "attachment",
+        "attachments2": "attachments",
+        "attachments3": "attachments",
+        "voicemessage": "Voice message",
+        "dialog": {
+            "last_seen": "last seen",
+            "online": "online",
+            "member": "member",
+            "members": "members",
+            "members1": "members",
+            "members_count": "Members",
+            "more": "Show more",
+            "created": "Chat created",
+            "join": "joined",
+            "leave": "leaved",
+            "dropdown": {
+                "description": "Description",
+                "link": "Link",
+                "view_profile": "View profile",
+                "block": "Block",
+                "report": "Report",
+                "copy_uid": "Copy User ID",
+                "mute": "Disable notifications",
+                "unmute": "Enable notifications",
+                "leave_group": "Leave group",
+                "leave_channel": "Leave channel",
+                "edit": "Edit",
+                "kick": "Kick"
+            },
+            "bottom": {
+                "placeholder": "Message",
+                "attach": {
+                    "photo": "Photo",
+                    "track": "Audio",
+                    "file": "File",
+                    "post": "Post"
+                },
+                "join": "Join chat"
+            },
+            "typing": "typing...",
+            "someone_is_typing": "is typing...",
+            "info": {
+                "title": {
+                    "user": "About user",
+                    "group": "About group",
+                    "channel": "About channel"
+                },
+                "leave": {
+                    "title": "Wait! Are you sure you want to leave the chat?",
+                    "confirm": "Confirm",
+                    "cancel": "Cancel"
+                }
+            },
+            "edit": {
+                "title": {
+                    "group": "Edit group",
+                    "channel": "Edit channel"
+                },
+                "name": {
+                    "title": "Title",
+                    "placeholder": "Name of your chat"
+                },
+                "description": {
+                    "title": "Description",
+                    "placeholder": "Briefly about your chat..."
+                },
+                "private": {
+                    "title": "Privacy",
+                    "public": "Public",
+                    "private": "Private"
+                },
+                "link": {
+                    "title": "Link",
+                    "placeholder": "me.yurba.one/..."
+                },
+                "links": {
+                    "title": "Private Links"
+                },
+                "button": "Save",
+                "errors": {
+                    "fields": {
+                        "title": "Oops! Some fields were not filled in.",
+                        "button": "Close"
+                    },
+                    "link_exists": {
+                        "title": "Oops! The tag is already taken.",
+                        "button": "Close"
+                    }
+                },
+                "success": {
+                    "title": "Success! Settings saved.",
+                    "button": "Close"
+                }
+            }
+        },
+        "context": {
+            "reply": "Reply",
+            "copy": "Copy text",
+            "delete": {
+                "title": "Delete",
+                "question": {
+                    "title": "Wait! Are you sure you want to delete the message for all users?",
+                    "confirm": "Confirm",
+                    "cancel": "Cancel"
+                }
+            },
+            "select": {
+                "title": "Select"
+            },
+            "edit": "Edit"
+        },
+        "add_attachment": {
+            "title": "Add attachment",
+            "upload_a_file": "Upload a file",
+            "upload_desc": "The photo will be attached along with the text that will be written in the main message box",
+            "cancel": "Cancel",
+            "send": "Send",
+            "send_photo": "Send a photo",
+            "send_vector_photo": "Send a vector",
+            "send_gif": "Send a GIF",
+            "send_html": "Send HTML",
+            "send_file": "Send file",
+            "file_too_large": "File too large. Max: %sMB"
+        },
+        "add_url": {
+            "title": "Add a URL",
+            "your_url": "Your URL...",
+            "your_text": "Your text...",
+            "text": "Text",
+            "add_link": "Add link"
+        },
+        "create": {
+            "title": "Create a new chat",
+            "select": {
+                "title": "Choose a chat type",
+                "group": "Group",
+                "channel": "Channel"
+            },
+            "name": {
+                "title": "Name",
+                "placeholder": "Your chat name"
+            },
+            "description": {
+                "title": "Description (Optional)",
+                "placeholder": "Briefly about your chat..."
+            },
+            "button": "Continue",
+            "errors": {
+                "fields": {
+                    "title": "Error! Some fields are not filled.",
+                    "button": "Close"
+                }
+            }
+        }
+    },
+    "friends": {
+        "title": "Friends",
+        "incoming": "Incoming requests",
+        "outcoming": "Outcoming request",
+        "more": "See more",
+        "write": "Write a message",
+        "profile": "View profile",
+        "work": "Works at"
+    },
+    "music": {
+        "title": "Music",
+        "subtitle": "Welcome back!",
+        "description": "Welcome to your music room, whats your plans for today?",
+        "search": "Search the music",
+        "playlists": "Playlists",
+        "single": "Single",
+        "ep": "EP",
+        "album": "Album",
+        "playlist": {
+            "title": "Playlist",
+            "nodesc": "No description provided",
+            "author": "Created by:",
+            "play": "Play",
+            "edit": "Edit",
+            "track": {
+                "delete": "Delete",
+                "up": "Move up",
+                "down": "Move down",
+                "page": "More info",
+                "add": "Add to list",
+                "report": "Report"
+            }
+        },
+        "track": {
+            "title": "Audiotrack",
+            "id": "Track ID:",
+            "play": "Play",
+            "author": {
+                "description": "Audio track was uploaded by: %s<br>If you own this track and don't like its presence here, please contact us",
+                "info": "Download or add a track to your playlist"
+            },
+            "download": "Download",
+            "add": "Add to playlist",
+            "edit": {
+                "title": "Edit"
+            }
+        },
+        "my": {
+            "short": "Favorite",
+            "description": "Your favorite music",
+            "title": "Favorite tracks"
+        },
+        "tracks1": "track",
+        "tracks2": "tracks",
+        "tracks3": "tracks",
+        "tracklist": {
+            "name": "Name",
+            "release": "Release",
+            "size": "Size",
+            "mb": "MB"
+        },
+        "playlistUpload": {
+            "title": "Create playlist",
+            "name": {
+                "title": "Name",
+                "placeholder": "Playlist name..."
+            },
+            "release": {
+                "title": "Release year (Optional)",
+                "placeholder": "Playlist release year..."
+            },
+            "description": {
+                "title": "Description (Optional)",
+                "placeholder": "Playlist description..."
+            },
+            "cover": "Cover (Optional)",
+            "button": "Submit",
+            "errors": {
+                "fields": {
+                    "title": "Error! Some fields are not filled.",
+                    "button": "Close"
+                }
+            },
+            "success": {
+                "title": "Success! Playlist created.",
+                "button": "Close"
+            }
+        },
+        "playlistEdit": {
+            "title": "Edit playlist",
+            "name": {
+                "title": "Name",
+                "placeholder": "Playlist name..."
+            },
+            "release": {
+                "title": "Release (Optional)",
+                "placeholder": "Playlist release year.."
+            },
+            "description": {
+                "title": "Description (Optional)",
+                "placeholder": "Playlist description..."
+            },
+            "submit": "Submit",
+            "delete": {
+                "title": "Delete",
+                "question": {
+                    "title": "Wait! Are you sure you want to delete the playlist?",
+                    "confirm": "Confirm",
+                    "cancel": "Cancel"
+                },
+                "success": {
+                    "title": "Success! Playlist removed.",
+                    "button": "To my tracks"
+                }
+            },
+            "errors": {
+                "fields": {
+                    "title": "Oops! Some fields were not filled in.",
+                    "button": "Close"
+                }
+            },
+            "success": {
+                "title": "Success! Information saved.",
+                "button": "Close"
+            }
+        },
+        "trackUpload": {
+            "title": "Upload track",
+            "name": {
+                "title": "Name",
+                "placeholder": "Track name..."
+            },
+            "author": {
+                "title": "Author name",
+                "placeholder": "Track author name..."
+            },
+            "release": {
+                "title": "Release year (Optional)",
+                "placeholder": "Track release year..."
+            },
+            "cover": "Cover (Optional)",
+            "audio": "Audio file",
+            "button": "Upload",
+            "errors": {
+                "fields": {
+                    "title": "Error! Some fields are not filled.",
+                    "button": "Close"
+                }
+            },
+            "success": {
+                "title": "Success! Your track ID:",
+                "button": "Close"
+            }
+        },
+        "playlistTrack": {
+            "title": "Add track to playlist",
+            "button": "Submit",
+            "errors": {
+                "fields": {
+                    "title": "Error! Select at least 1 playlist.",
+                    "button": "Close"
+                },
+                "exists": {
+                    "title": "Error! The track has already been added to the playlist.",
+                    "button": "Close"
+                }
+            },
+            "success": {
+                "title": "Success! Track has been added.",
+                "button": "Close"
+            }
+        },
+        "tracksModal": {
+            "title": "Choose a track from your favorites",
+            "more": "Show more"
+        }
+    },
+    "photos": {
+        "photosModal": {
+            "title": "Select the uploaded photo",
+            "more": "See more",
+            "placeholder": "<i class='icd icd-upload'></i>Select from uploaded photos",
+            "uploaded": "<i class='icd icd-checkmark-singly'></i>Photo selected",
+            "upload": "Upload"
+        },
+        "photoUpload": {
+            "title": "Upload a new photo",
+            "description": "Select a file or drag it here.",
+            "button": "OK",
+            "errors": {
+                "extensions": {
+                    "title": "Oops! Allowed extensions:",
+                    "button": "Close"
+                }
+            }
+        }
+    },
+    "settings": {
+        "title": "Settings",
+        "profile": {
+            "title": "Profile",
+            "description": "Profile settings: change avatar and banner, edit account data and customize posts",
+            "personality": "Personality information",
+            "account": "Account",
+            "first_name": {
+                "title": "First name",
+                "placeholder": "Your first name..."
+            },
+            "second_name": {
+                "title": "Second name",
+                "placeholder": "Your second name..."
+            },
+            "work": {
+                "title": "Place of work",
+                "placeholder": "Works at..."
+            },
+            "website": {
+                "title": "Website",
+                "warning": {
+                    "title": "WARNING!",
+                    "description": "Please note that links that cause any kind of damage to users will be blacklisted and you will be penalized"
+                }
+            },
+            "relationships": "Civil status",
+            "birthday": "Birthday",
+            "status": {
+                "title": "Status",
+                "placeholder": "What's new?"
+            },
+            "about": {
+                "title": "About",
+                "placeholder": "Some words about you..."
+            },
+            "language": "Language",
+            "country": {
+                "title": "Country",
+                "placeholder": "Not selected"
+            },
+            "region": {
+                "title": "Region",
+                "placeholder": "Not selected"
+            },
+            "city": {
+                "title": "City",
+                "placeholder": "Not selected"
+            },
+            "languages": {
+                "title": "Languages",
+                "placeholder": "Not selected"
+            },
+            "native": {
+                "title": "Native city",
+                "placeholder": "Your native city..."
+            },
+            "email": {
+                "title": "E-mail",
+                "placeholder": "Main e-mail..."
+            },
+            "reserve": {
+                "title": "Reserve email",
+                "placeholder": "Reserve e-mail..."
+            },
+            "tag": "User tag",
+            "button": "Save profile settings",
+            "delete": {
+                "title": "Delete the account",
+                "question": {
+                    "title": "Wait! Are you sure want to delete the account? You can restore it within six months.",
+                    "confirm": "Confirm",
+                    "cancel": "Cancel"
+                },
+                "success": {
+                    "title": "Success! The account has been deleted.",
+                    "button": "Close"
+                }
+            },
+            "other": "Other",
+            "online": {
+                "title": "Online status",
+                "online": "Online",
+                "dont_disturb": "Don't disturb",
+                "moved_away": "Moved away"
+            },
+            "original": {
+                "title": "Original account",
+                "subtitle": "The account ID you specified must be in your friends list.",
+                "placeholder": "ID of account..."
+            },
+            "emoji": {
+                "title": "Emoji",
+                "placeholder": "Emoji by your name..."
+            },
+            "password": {
+                "title": "Change password",
+                "old": {
+                    "title": "Old password",
+                    "placeholder": "Old password..."
+                },
+                "new": {
+                    "title": "New password",
+                    "placeholder": "Your new password..."
+                },
+                "retype": {
+                    "title": "Confirm password",
+                    "placeholder": "Confirm new password..."
+                },
+                "button": "Change password",
+                "errors": {
+                    "fields": {
+                        "title": "Error! Some fields are not filled.",
+                        "button": "Close"
+                    },
+                    "match": {
+                        "title": "Error! Passwords don't match.",
+                        "button": "Close"
+                    },
+                    "incorrect_password": {
+                        "title": "Error! Incorrect password.",
+                        "button": "Close"
+                    },
+                    "short": {
+                        "title": "Error! Password is too short. (minimum - 6 symbols)",
+                        "button": "Close"
+                    }
+                },
+                "success": {
+                    "title": "Success! Password changed.",
+                    "button": "Close"
+                }
+            },
+            "errors": {
+                "fields": {
+                    "title": "Error! Some fields are not filled.",
+                    "button": "Close"
+                },
+                "invalid_email": {
+                    "title": "Error! E-mail is invalid.",
+                    "button": "Close"
+                },
+                "email_exists": {
+                    "title": "Error! E-mail already taken.",
+                    "button": "Close"
+                },
+                "link_exists": {
+                    "title": "Error! Link already taken.",
+                    "button": "Close"
+                }
+            },
+            "success": {
+                "title": "Success! Settings have been saved.",
+                "button": "Reload"
+            }
+        },
+        "privacy": {
+            "title": "Privacy",
+            "description": "Who can view your posts, comment and send friend request",
+            "online": {
+                "title": "Online type",
+                "description": "If you don't want others to see when you've been online",
+                "time": "Exact time",
+                "approximate": "Approximate time",
+                "invisible": "Invisible"
+            },
+            "post_on_wall": {
+                "title": "Who can post on my wall?",
+                "description": "If you don't want strangers to clutter up your wall, set «Friends only»",
+                "all": "Anyone",
+                "friends": "Friends only",
+                "nobody": "Nobody"
+            },
+            "comment_on_wall": {
+                "title": "Who can comment on my posts?",
+                "description": "If you don't want strangers to litter your comments, set «Friends only»",
+                "all": "Anyone",
+                "friends": "Friends only",
+                "nobody": "Nobody"
+            },
+            "add_friend": {
+                "title": "Who can add me as a friend?",
+                "description": "If you don't want to receive friend requests, set «Nobody»",
+                "all": "Anyone",
+                "nobody": "Nobody"
+            },
+            "view_friends": {
+                "title": "Who can view my friends list?",
+                "description": "If you don't want strangers to see your friends list, set «Friends only»",
+                "all": "Anyone",
+                "friends": "Friends only",
+                "nobody": "Nobody"
+            },
+            "send_message": {
+                "title": "Who can message me?",
+                "description": "If you don't want strangers to clutter up your direct messages, set «Friends only»",
+                "all": "Anyone",
+                "friends": "Friends only",
+                "nobody": "Nobody"
+            },
+            "view_avatar": {
+                "title": "Who can view my avatar and banner?",
+                "description": "If you don't want strangers to see your avatar and banner, set «Friends only»",
+                "all": "Anyone",
+                "friends": "Friends only",
+                "nobody": "Nobody"
+            },
+            "view_birthday": {
+                "title": "What will my birthday look like?",
+                "full": "Completely",
+                "semi": "Month and day only",
+                "none": "Do not show"
+            },
+            "search": {
+                "title": "Allow users to search my page in search?",
+                "description": "If you do not want your profile to be found in search, set «Disallow»",
+                "allow": "Allow",
+                "disallow": "Disallow"
+            },
+            "button": "Save",
+            "success": {
+                "title": "Success! Settings saved.",
+                "button": "Close"
+            }
+        },
+        "notifications": {
+            "title": "Notifications",
+            "description": "Configure notification settings."
+        },
+        "messenger": {
+            "title": "Messages",
+            "description": "Setting up the messenger theme, chats",
+            "theme": {
+                "title": "Theme",
+                "description": "You can choose a preset color theme",
+                "default": "Default",
+                "carbon": "Carbon",
+                "dialog": {
+                    "other": {
+                        "0": "How its going?",
+                        "1": "Too. Look: <font class='font-monospace'>i can write code here!</font>"
+                    },
+                    "me": {
+                        "0": "Good, you?",
+                        "1": "K, but i can <span class='fw-bold'>bold</span> my text"
+                    }
+                }
+            },
+            "button": "Save messages settings"
+        },
+        "security": {
+            "title": "Security",
+            "description": "Here you can track all the activities on the account",
+            "sessions": {
+                "title": "Sessions",
+                "device": "Device",
+                "last_been": "Last activity",
+                "token_created": "Token created",
+                "delete": {
+                    "question": {
+                        "title": "Wait! Are you sure want to delete the token?",
+                        "confirm": "Confirm",
+                        "cancel": "Cancel"
+                    },
+                    "success": {
+                        "title": "Success! The page has been deleted.",
+                        "button": "Close"
+                    }
+                }
+            }
+        },
+        "dev": {
+            "title": "For Developers",
+            "description": "Your apps and actions with other apps.",
+            "apps": {
+                "title": "Application",
+                "name": "Name",
+                "public": "Public key",
+                "secret": "Secret key",
+                "redirect": "Redirect URL",
+                "delete": {
+                    "question": {
+                        "title": "Wait! Are you sure you want to delete the app?",
+                        "confirm": "Confirm",
+                        "cancel": "Cancel"
+                    },
+                    "success": {
+                        "title": "Success! The application has been deleted.",
+                        "button": "Close"
+                    }
+                },
+                "create": {
+                    "title": "Create an application",
+                    "name": {
+                        "title": "Title",
+                        "placeholder": "Name of your application"
+                    },
+                    "redirect": {
+                        "title": "Redirect URL",
+                        "placeholder": "Page to be redirected to"
+                    },
+                    "button": "Create",
+                    "errors": {
+                        "fields": {
+                            "title": "Oops! Some fields were not filled in.",
+                            "button": "Close"
+                        }
+                    },
+                    "success": {
+                        "title": "Success! The application has been created.",
+                        "button": "Reload"
+                    }
+                }
+            },
+            "tokens": {
+                "title": "Your tokens in apps",
+                "app": "Application",
+                "last_been": "Last login",
+                "token_created": "Token created",
+                "delete": {
+                    "question": {
+                        "title": "Wait! Are you sure you want to delete the token?",
+                        "confirm": "Confirm",
+                        "cancel": "Cancel"
+                    },
+                    "success": {
+                        "title": "Success! Token deleted.",
+                        "button": "Close"
+                    }
+                }
+            }
+        },
+        "verify": {
+            "title": "Verification"
+        },
+        "sub": {
+            "title": "Subscription"
+        },
+        "golink": {
+            "title": "GOLink",
+            "description": "Management of GOLink service profiles",
+            "button": "Create",
+            "pages": {
+                "name": "Name",
+                "tag": "Tag",
+                "created": "Created",
+                "edit": {
+                    "title": "Edit page",
+                    "name": {
+                        "title": "Name",
+                        "placeholder": "Page name"
+                    },
+                    "tag": {
+                        "title": "Tag",
+                        "placeholder": "Page tag"
+                    },
+                    "description": {
+                        "title": "Description",
+                        "placeholder": "Something about your page..."
+                    },
+                    "links": "Links",
+                    "link": {
+                        "name": "Link name",
+                        "url": "Link URL"
+                    },
+                    "button": "Save",
+                    "errors": {
+                        "fields": {
+                            "title": "Error! Some fields are not filled.",
+                            "button": "Close"
+                        },
+                        "link_exists": {
+                            "title": "Error! Link already taken.",
+                            "button": "Close"
+                        }
+                    },
+                    "success": {
+                        "title": "Success! Settings have been saved.",
+                        "button": "Close"
+                    }
+                },
+                "delete": {
+                    "question": {
+                        "title": "Wait! Are you sure want to delete the page?",
+                        "confirm": "Confirm",
+                        "cancel": "Cancel"
+                    },
+                    "success": {
+                        "title": "Success! The page has been deleted.",
+                        "button": "Close"
+                    }
+                }
+            },
+            "create": {
+                "title": "Create a page",
+                "name": {
+                    "title": "Name",
+                    "placeholder": "Page name"
+                },
+                "tag": {
+                    "title": "Tag",
+                    "placeholder": "Page tag"
+                },
+                "description": {
+                    "title": "Description",
+                    "placeholder": "Something about your page..."
+                },
+                "button": "Create",
+                "errors": {
+                    "fields": {
+                        "title": "Error! Some fields are not filled.",
+                        "button": "Close"
+                    },
+                    "link_exists": {
+                        "title": "Error! Link already taken.",
+                        "button": "Close"
+                    }
+                },
+                "success": {
+                    "title": "Success! The page has been created.",
+                    "button": "Reload"
+                }
+            }
+        },
+        "void": {
+            "title": "VOIDSERVER",
+            "gd": {
+                "title": "Geometry Dash",
+                "description": "Integrated dashboard of Geometry Dash Void Server.",
+                "buttons": {
+                    "link": "Link",
+                    "register": "Create"
+                },
+                "link": {
+                    "title": "Link account",
+                    "list": {
+                        "1": "Request a linking through this form",
+                        "2": "Enter the received code in the game using the command !link [code]",
+                        "3": "Account linked successfully!"
+                    },
+                    "name": {
+                        "title": "Name",
+                        "placeholder": "Name of the account"
+                    },
+                    "button": "Send",
+                    "success": {
+                        "title": "Waiting for linking... Your code:",
+                        "button": "Close"
+                    }
+                },
+                "register": {
+                    "title": "Register a new Account",
+                    "login": {
+                        "title": "Login",
+                        "placeholder": "Enter account login"
+                    },
+                    "email": {
+                        "title": "E-mail",
+                        "placeholder": "Enter account e-mail"
+                    },
+                    "password": {
+                        "title": "Password",
+                        "placeholder": "Enter account password"
+                    },
+                    "confirm": {
+                        "title": "Confirm password",
+                        "placeholder": "Confirm account password"
+                    },
+                    "tof": "I'm agree with GD Void Server's <a href='https://gdvs.yurba.one/rules'>TOF</a>",
+                    "button": "Continue",
+                    "errors": {
+                        "match": {
+                            "title": "Error! Passwords don't match.",
+                            "button": "Close"
+                        },
+                        "name": {
+                            "title": "Error! Name is too short.",
+                            "button": "Close"
+                        },
+                        "password": {
+                            "title": "Error! Password is too short.",
+                            "button": "Close"
+                        },
+                        "name_exists": {
+                            "title": "Error! Name already taken.",
+                            "button": "Close"
+                        },
+                        "accounts": {
+                            "title": "Error! Too many accounts. 5/5.",
+                            "button": "Close"
+                        }
+                    },
+                    "success": {
+                        "title": "Success! The account is registered. You can log in to the game.",
+                        "button": "Close"
+                    }
+                },
+                "accounts": {
+                    "name": "Name",
+                    "stars": "Stars",
+                    "vorbs": "Vorbs",
+                    "created": "Created",
+                    "lastBeen": "Last been"
+                }
+            }
+        },
+        "verification": {
+            "modal-title": "Verification",
+            "title": "Congratulations!",
+            "default": "You have received a check mark to your profile in the form of a verification check mark. Now you are 1 step closer to worldwide popularity",
+            "org": "Your organization has been officially verified. This means that you are now recognized as a full-fledged company/organization in Yurba.",
+            "gov": "Your page has been officially confirmed as a state page. This means that we have recognized that your page is official at the state level",
+            "buttons": {
+                "close": "Close",
+                "send": "Send account for verification",
+                "thanks": "Thanks!"
+            },
+            "msg": "Hello! I wish to be verified in Yurba.",
+            "notverify": {
+                "title": "Get verified in few steps!",
+                "about": "If you think you're a mid-circle celebrity or a popular video blogger, musician or other content maker and you're sure you need a wingman, then read the terms and conditions and opportunities below",
+                "acts": {
+                    "conditions": {
+                        "title": "Verification conditions",
+                        "rec": {
+                            "title": "Recognizability",
+                            "about": "You must be popular. If you are famous in small circles - it is not suitable, because you must be famous in big circles and have a good reputation"
+                        },
+                        "comprof": {
+                            "title": "Completed Profile",
+                            "about": "The profile you wish to verify must be fully filled out with valid and complete information to facilitate the verification process. You should also make it clear who you are, an individual or an organization. Only 'Relationship' and 'Native city' can be left blank"
+                        },
+                        "activity": {
+                            "title": "Activity",
+                            "about": "You must publish at least 1 post per week in order not to lose verification. It is best that these posts be as meaningful as possible"
+                        },
+                        "censor": {
+                            "title": "Censorship",
+                            "about": "Preferably, do not publish posts with extreme amounts of profanity and/or insults. Try to keep your posts as 'user-friendly' as possible"
+                        }
+                    },
+                    "opport": {
+                        "title": "Opportunities",
+                        "fol": {
+                            "title": "First on the list",
+                            "about": "Verified profiles will always come up first in searches, if possible. This gives you a better chance of finding a popular person"
+                        },
+                        "nomiss": {
+                            "title": "There's no mistaking you",
+                            "about": "Verification will let everyone know that you are you. Any check mark next to your name will mean that the person has gotten to the profile they were looking for"
+                        }
+                    },
+                    "desc": "If you are sure that verification is right for you, then click on the 'Send your account for verification' button."
+                }
+            }
+        }
+    },
+    "shop": {
+        "title": "Shop",
+        "inventory": "Your inventory",
+        "nothing": "Nothing here...",
+        "send": "Send",
+        "apply": "Apply",
+        "more": "View more",
+        "friends": {
+            "title": "Select your friend",
+            "more": "Show more",
+            "success": {
+                "title": "Success! Item sent.",
+                "button": "Close"
+            }
+        },
+        "purchase": {
+            "success": {
+                "title": "Success! Item purchased.",
+                "button": "Close"
+            },
+            "error": {
+                "title": "Error! There are insufficient funds on your balance.",
+                "button": "Close"
+            }
+        }
+    }
+}

@@ -1,0 +1,1714 @@
+{
+    "ver": "2.2.6",
+    "lang": "Polski",
+    "author": "RastGame",
+    "lost_connection": "Brak połączenia z siecią...",
+    "reached_end_list": "Dotarłeś do końca listy.",
+    "copied": "Skopiowano!",
+    "reposted": "Post został udostępniony na twojej stronie!",
+    "not_saved": "Masz niezapisane zmiany.",
+    "picker": "Wybierz emoji",
+    "errors": {
+        "404": {
+            "title": "Ta treść jest obecnie niedostępna",
+            "description": "Autor mógł udostępnić materiał tylko wąskiej grupie osób, zmienić jego widoczność lub usunąć.",
+            "button": "Powrót"
+        }
+    },
+    "update": {
+        "title": "Nieaktualna wersja",
+        "description": "Yurba została zaktualizowana do wersji %s. Prosimy zaktualizować aplikację internetową dla poprawnego działania.",
+        "button": "Zaktualizuj"
+    },
+    "banned": {
+        "title": "Konto zablokowane",
+        "description": "Zostałeś zablokowany za naruszenie <a href='https://docs.yurba.one/tof'>Regulaminu korzystania</a> Yurba. Data odblokowania: <b>%s</b><br><br>Jeśli nie zgadzasz się z tą decyzją, możesz skontaktować się z nami pod adresem e-mail: <a href='mailto:support@yurba.one'>support@yurba.one</a>",
+        "button": "Wyloguj się"
+    },
+    "deleted": {
+        "title": "Konto usunięte",
+        "description": "Usunąłeś swoje konto %s. Możesz je przywrócić przed upływem okresu zamrożenia.<br><br>Ostateczny termin usunięcia: <b>%s</b>.",
+        "exit": "Wyloguj się",
+        "restore": "Przywróć"
+    },
+    "disconnect": {
+        "title": "Brak połączenia",
+        "description": "Błąd połączenia z serwerem, spróbuj odświeżyć stronę",
+        "button": "Odśwież"
+    },
+    "notifications": {
+        "title": "Powiadomienia",
+        "new_friend_request": "%s wysłał(a) Ci zaproszenie do znajomych",
+        "accept_friend_request": "%s zaakceptował(a) Twoje zaproszenie do znajomych",
+        "post_mention": "%s wspomniał(a) o tobie w poście",
+        "comment_mention": "%s wspomniał(a) o Tobie w komentarzu",
+        "post_like": "%s polubił(a) Twój post",
+        "comment_like": "%s polubił(a) Twój komentarz",
+        "post_on_wall": "%s opublikował(a) post na Twojej stronie",
+        "comment_post": "%s skomentował(a) Twój post",
+        "gift": "%s wysłał(a) Ci prezent",
+        "errors": {
+            "post_not_found": {
+                "title": "Ups! Ten post nie istnieje.",
+                "button": "Zwiń"
+            },
+            "comment_not_found": {
+                "title": "Ups! Ten komentarz nie istnieje.",
+                "button": "Zwiń"
+            }
+        }
+    },
+    "sidebar": {
+        "menu": "Menu",
+        "other": "Inne",
+        "news": "Aktualności",
+        "profile": "Profil",
+        "messages": "Wiadomości",
+        "search": "Szukaj",
+        "friends": "Znajomi",
+        "groups": "Społeczności",
+        "photos": "Zdjęcia",
+        "music": "Muzyka",
+        "treasury": "Skarbnica",
+        "projects": "Projekty",
+        "shop": "Sklep",
+        "cdn": "Content Delivery",
+        "docs": "Dokumentacja",
+        "settings": "Ustawienia",
+        "dev": "Dla deweloperów",
+        "golink": "GOLink",
+        "void": "VOIDSERVER"
+    },
+    "navbar": {
+        "search": "Szukaj...",
+        "themes": {
+            "light": "Jasny motyw",
+            "dark": "Ciemny motyw"
+        },
+        "loginAccount": "Dodaj konto",
+        "logout": "Wyloguj się",
+        "home": "Strona główna",
+        "notifications": "Powiadomienia",
+        "messages": "Wiadomości",
+        "menu": "Menu"
+    },
+    "badges": {
+        "verify": {
+            "default": {
+                "title": "Oficjalny profil",
+                "description": "Administracja Yurba potwierdziła autentyczność profilu %s"
+            },
+            "gov": {
+                "title": "Konto rządowe",
+                "description": "jest zatwierdzoną instytucją państwową, osobą lub firmą"
+            },
+            "org": {
+                "title": "Organizacja",
+                "description": "jest oficjalnym przedstawicielem firmy lub organizacji w Yurba"
+            }
+        },
+        "creative": {
+            "title": "Pomocnik w rozwoju",
+            "description": "%s wniósł kreatywny wkład w rozwój społeczności Yurba"
+        },
+        "post_author": {
+            "title": "Autor posta",
+            "description": "Komentarz należy do autora posta"
+        },
+        "chat": {
+            "verify": {
+                "default": {
+                    "title": "Oficjalny czat",
+                    "description": "Administracja Yurba potwierdziła autentyczność czatu %s"
+                }
+            }
+        },
+        "sub": {
+            "title": "Tak kolorowo!",
+            "description": "- subskrybent %s"
+        },
+        "sub_feature": {
+            "title": "Funkcja YurbaPlus",
+            "description": "Ta funkcja jest dostępna tylko dla subskrybentów YurbaPlus"
+        },
+        "prem_feature": {
+            "title": "Funkcja Yurba Premium",
+            "description": "Ta funkcja jest dostępna tylko dla subskrybentów Yurba Premium"
+        },
+        "branch": {
+            "title": "Filia",
+            "description": "To konto jest afiliowane z kontem %s"
+        }
+    },
+    "online": {
+        "title": "Online",
+        "online": "obecnie online.",
+        "offline": {
+            "title": "Offline",
+            "default": "był(a)",
+            "recent": "był(a) ostatnio",
+            "few_days_ago": "był(a) kilka dni temu",
+            "this_week": "był(a) w tym tygodniu",
+            "this_month": "był(a) w tym miesiącu",
+            "long_ago": "był(a) dawno temu"
+        },
+        "dont_disturb": {
+            "title": "Nie przeszkadzać",
+            "description": "zajęty"
+        },
+        "moved_away": {
+            "title": "Nieobecny",
+            "description": "odszedł"
+        }
+    },
+    "relationships": {
+        "strangers": "Dodaj znajomego",
+        "me_subscribed": "Anuluj zaproszenie",
+        "he_subscribed": "Zaakceptuj zaproszenie",
+        "friends": "Usuń ze znajomych",
+        "ignore": "Odrzuć zaproszenie"
+    },
+    "civil_status": {
+        "0": "Wolę nie mówić",
+        "1": "Nieżonaty",
+        "2": "W związku",
+        "3": "Zakochany",
+        "4": "Żonaty"
+    },
+    "time": {
+        "ago": "temu",
+        "just_now": "przed chwilą",
+        "seconds1": "sekunda",
+        "seconds2": "sekundy",
+        "seconds3": "sekund",
+        "minutes1": "minute",
+        "minutes2": "minuty",
+        "minutes3": "minut",
+        "hours1": "godzine",
+        "hours2": "godziny",
+        "hours3": "godzin",
+        "days1": "dzień",
+        "days2": "dni",
+        "days3": "dni",
+        "weeks1": "tydzień",
+        "weeks2": "tygodnie",
+        "weeks3": "tygodni",
+        "months1": "miesiąc",
+        "months2": "miesiące",
+        "months3": "miesięcy",
+        "years1": "rok",
+        "years2": "lata",
+        "years3": "lat"
+    },
+    "month": {
+        "01": "stycznia",
+        "02": "lutego",
+        "03": "marca",
+        "04": "kwietnia",
+        "05": "maja",
+        "06": "czerwca",
+        "07": "lipca",
+        "08": "sierpnia",
+        "09": "września",
+        "10": "października",
+        "11": "listopada",
+        "12": "grudnia"
+    },
+    "sub": {
+        "title": "Subskrypcje",
+        "month": "mies.",
+        "have": "Anuluj płatność za miesiąc",
+        "active": "Subskrypcja aktywna",
+        "privilegesText": "PRYWILEJE",
+        "additionalText": "DODATKOWO",
+        "buttons": {
+            "close": "Zamknij",
+            "choose": "Wybierz ten plan",
+            "gift": "Prezent"
+        },
+    "plus": {
+        "privileges": {
+            "0": {
+                "title": "Animowana odznaka",
+                "desc": "Twój profil będzie miał taką samą animowaną odznakę jak powyżej. Będzie ona widoczna obok Twojego imienia."
+            },
+            "1": {
+                "title": "Całkowita swoboda",
+                "desc": "Nie czuj granic! <b>x3</b> Limit tekstu w postach został zwiększony z 800 do <b>3000</b>, w komentarzach - z 200 do <b>600</b> znaków"
+            },
+            "2": {
+                "title": "Dodaj wszystkich swoich znajomych",
+                "desc": "<b>x5</b> Limit dodawania znajomych. Teraz maksimum nie 50, a <b>250</b> znajomych."
+            },
+            "3": {
+                "title": "Poza strefą",
+                "desc": "Włącz tryb pełnej anonimowości - osoby postronne nie będą mogły zobaczyć Twojego statusu online ani ostatniego logowania"
+            },
+            "4": {
+                "title": "Żadnej reklamy",
+                "desc": "Nie będziesz już widzieć żadnej reklamy od Yurba podczas korzystania z sieci"
+            },
+            "5": {
+                "title": "Ograniczenia wiadomości",
+                "desc": "Powiedz «nie» wiadomościom od nieznajomych - zezwól na wiadomości tylko od znajomych i subskrybentów"
+            },
+            "7": {
+                "title": "Podgląd aktywności",
+                "desc": "Otrzymaj dostęp do podglądu ostatniej aktywności innych użytkowników, nawet przy ukrywaniu własnej"
+            }
+        },
+        "additional": {
+            "0": {
+                "title": "Więcej multimediów w postach",
+                "desc": "Teraz załączniki w Twoim poście mogą zawierać do <b>10</b> zdjęć zamiast 4"
+            },
+            "1": {
+                "title": "Czas napisać biografię!",
+                "desc": "Teraz masz nieograniczoną liczbę profili <a href='https://go.yurba.one'>GOLink</a>, a także do 20 linków i możliwość dodawania do nich okładek"
+            },
+            "2": {
+                "title": "Edytowany ikon",
+                "desc": "Teraz możesz ustawić dowolny emotikon na swój biegler przedpłatnika"
+            },
+            "3": {
+                "title": "Dostęp do sklepu",
+                "desc": "Chcesz jeszcze bardziej spersonalizować swój profil? Dobrze! Otrzymasz dostęp do ekskluzywnego sklepu kosmetycznego."
+            }
+        },
+        "buy": "Witaj! Chcę kupić subskrypcję Yurba Plus na okres 1 miesiąca.",
+        "gift": "Witaj! Chcę kupić subskrypcję Yurba Plus jako prezent na okres 1 miesiąca."
+        },
+        "premium": {
+            "privileges": {
+                "0": {
+                    "title": "Odznaka przedpłatnika",
+                    "desc": "Twój profil będzie miał taką samą odznake jak powyżej. Będzie on obok Twojego imienia"
+                },
+                "1": {
+                    "title": "Więcej swobody",
+                    "desc": "<b>x2</b> Limit tekstu w postach został zwiększony z 800 do <b>1500</b>, w komentarzach - z 200 do <b>400</b> znaków"
+                },
+                "2": {
+                    "title": "Więcej możliwości dla znajomości",
+                    "desc": "<b>x2</b> Limit dodawania znajomych. Teraz maksimum nie 50, a <b>100</b> znajomych."
+                },
+                "3": {
+                    "title": "Częściowa ukrywalność",
+                    "desc": "Będziesz mógł ukryć swój ostatni wstęp przed innymi jednym kliknięciem, ale nie swój status online"
+                },
+                "4": {
+                    "title": "Żadnej reklamy",
+                    "desc": "Nie będziesz już widzieć żadnej reklamy od Yurba podczas korzystania z sieci"
+                },
+                "5": {
+                    "title": "Ograniczenia wiadomości",
+                    "desc": "Powiedz «nie» wiadomościom od nieznajomych - zezwól na wiadomości tylko od znajomych i przedpłatników"
+                }
+            },
+            "additional": {
+                "0": {
+                    "title": "Więcej multimediów w postach",
+                    "desc": "Teraz załączniki w Twoim poście mogą zawierać do <b>6</b> zdjęć zamiast 4"
+                },
+                "2": {
+                    "title": "Okładki dla linków",
+                    "desc": "Teraz masz możliwość dodawania okładek linków <a href='https://go.yurba.one'>GOLink</a>"
+                }
+            },
+            "buy": "Witaj! Chcę kupić subskrypcję Yurba Premium na okres 1 miesiąca.",
+            "gift": "Witaj! Chcę kupić subskrypcję Yurba Premium jako prezent na okres 1 miesiąca."
+        }
+    },
+    "auth": {
+        "title": "Sieć społeczna Yurba",
+        "text1": "Dołącz do <span class='fw-bolder'>Yurby</span> i komunikuj się ze swoimi bliskimi, przyjaciółmi, znajomymi i subskrybentami.",
+        "text2": "Dziel się postami lub twórz swoją społeczność w komunikatorze, aby przyciągnąć nową publiczność!",
+        "android": "Pobierz naszą aplikację na Androida, aby zawsze być w kontakcie",
+        "windows": "Aplikacja dla komputerów osobistych z systemem Windows",
+        "footer": {
+            "dev": "Dla deweloperów",
+            "tof": "Regulamin korzystania",
+            "privacy": "Polityka prywatności"
+        },
+        "login": {
+            "title": "Witaj!",
+            "description": "Zaloguj się, aby odwiedzić Yurbę.",
+            "email": {
+                "title": "E-mail",
+                "placeholder": "Wpisz adres e-mail"
+            },
+            "password": {
+                "title": "Hasło",
+                "placeholder": "Wpisz hasło"
+            },
+            "forgot": "Zapomniałeś hasła?",
+            "button": "Zaloguj się",
+            "link": "Nie masz konta? <a href='/register/' class='text-primary fw-semibold'>Zarejestruj się</a>",
+            "photo": "Zdjęcie:",
+            "errors": {
+                "user": {
+                    "title": "O nie! Użytkownik nie istnieje.",
+                    "button": "Zamknij"
+                },
+                "password": {
+                    "title": "O nie! Niepoprawne hasło.",
+                    "button": "Zamknij"
+                },
+                "attempts": {
+                    "title": "O nie! Za dużo prób. Spróbuj ponownie później.",
+                    "button": "Zamknij"
+                }
+            }
+        },
+        "oauth": {
+            "title": "Udziel upoważnienia",
+            "description": "Aplikacja %s prosi o dostęp do Twojego konta.",
+            "pos1": {
+                "title": "Dostęp do danych podstawowych",
+                "description": "Aplikacja będzie miała dostęp tylko do Twoich danych podstawowych, takich jak identyfikator, imię, nazwisko, awatar i data rejestracji."
+            },
+            "pos2": {
+                "title": "Dostęp w dowolnym momencie",
+                "description": "Posiadając Twój ograniczony token, aplikacja może uzyskiwać dane w dowolnym momencie, dopóki go nie usuniesz."
+            },
+            "pos3": {
+                "title": "Pozycje, do których nie będzie dostępu",
+                "description": "Aplikacja NIE ma dostępu do hasła, adresu IP oraz innych danych i nie będzie mogła wykonywać żadnych działań na Twoim koncie."
+            },
+            "button": "Udziel upoważnienia"
+        },
+        "reset": {
+            "title": "Zapomniałeś hasła?",
+            "description": "Pomogę Ci odzyskać hasło.",
+            "email": {
+                "title": "E-mail",
+                "placeholder": "Wpisz adres e-mail"
+            },
+            "button": "Kontynuuj",
+            "link": "Pamiętasz hasło? <a href='/login' class='text-primary fw-semibold'> Zaloguj się</a>",
+            "errors": {
+                "email": {
+                    "title": "O nie! Niepoprawny adres e-mail.",
+                    "button": "Zamknij"
+                },
+                "user": {
+                    "title": "O nie! Użytkownik nie istnieje.",
+                    "button": "Zamknij"
+                },
+                "attempts": {
+                    "title": "O nie! Za dużo prób. Spróbuj ponownie później.",
+                    "button": "Zamknij"
+                }
+            },
+            "success": {
+                "title": "Gotowe! Wiadomość została wysłana na Twoją skrzynkę pocztową.",
+                "button": "Zamknij"
+            },
+            "password": {
+                "new": {
+                    "title": "Nowe hasło",
+                    "placeholder": "Wpisz nowe hasło"
+                },
+                "confirm": {
+                    "title": "Potwierdź hasło",
+                    "placeholder": "Powtórz nowe hasło"
+                },
+                "button": "Kontynuuj",
+                "errors": {
+                    "match": {
+                        "title": "O nie! Hasła nie pasują.",
+                        "button": "Zamknij"
+                    },
+                    "code": {
+                        "title": "O nie! Niepoprawny kod aktywacyjny.",
+                        "button": "Zamknij"
+                    },
+                    "short": {
+                        "title": "O nie! Hasło jest za krótkie.",
+                        "button": "Zamknij"
+                    }
+                },
+                "success": {
+                    "title": "Gotowe! Hasło zostało zmienione.",
+                    "button": "Na stronę logowania"
+                }
+            }
+        },
+        "register": {
+            "title": "Stwórz konto",
+            "description": "Zarejestruj swoje bezpłatne konto Yurba.",
+            "name": {
+                "title": "Imię",
+                "placeholder": "Wpisz swoje imię"
+            },
+            "surname": {
+                "title": "Nazwisko (opcjonalnie)",
+                "placeholder": "Wpisz swoje nazwisko"
+            },
+            "email": {
+                "title": "E-mail",
+                "placeholder": "Wpisz swój adres e-mail"
+            },
+            "password": {
+                "title": "Hasło",
+                "placeholder": "Wpisz swoje hasło"
+            },
+            "confirm": {
+                "title": "Potwierdź hasło",
+                "placeholder": "Powtórz swoje hasło"
+            },
+            "tof": "Zgadzam się z <a href='https://docs.yurba.one/tof'>Regulaminem korzystania</a> Yurba",
+            "button": "Kontynuuj",
+            "link": "Jesteś już zarejestrowany? <a href='/login' class='text-primary fw-semibold'> Zaloguj się</a>",
+            "errors": {
+                "match": {
+                    "title": "O nie! Hasła nie pasują.",
+                    "button": "Zamknij"
+                },
+                "name": {
+                    "title": "O nie! Imię jest za krótkie.",
+                    "button": "Zamknij"
+                },
+                "password": {
+                    "title": "O nie! Hasło jest za krótkie.",
+                    "button": "Zamknij"
+                },
+                "email_taken": {
+                    "title": "O nie! Adres e-mail jest już zajęty.",
+                    "button": "Zamknij"
+                },
+                "email": {
+                    "title": "O nie! Niepoprawny adres e-mail.",
+                    "button": "Zamknij"
+                }
+            },
+            "success": {
+                "title": "Gotowe! Wiadomość została wysłana na Twoją skrzynkę pocztową.",
+                "button": "Na stronę logowania"
+            }
+        },
+        "activation": {
+            "title": "Aktywacja",
+            "description": "Proszę, przejdź przez CAPTCHA",
+            "button": "Potwierdź",
+            "errors": {
+                "captcha": {
+                    "title": "O nie! CAPTCHA nie powiodła się.",
+                    "button": "Zamknij"
+                },
+                "code": {
+                    "title": "O nie! Niepoprawny kod aktywacyjny.",
+                    "button": "Zamknij"
+                }
+            },
+            "success": {
+                "title": "Gotowe! Konto zostało potwierdzone.",
+                "button": "Na stronę logowania"
+            }
+        }
+    },
+    "feed": {
+        "recommendations": "Rekomendacje",
+        "friends": "Znajomi",
+        "all": "Wszystkie posty"
+    },
+    "search": {
+        "type": {
+            "title": "Typ wyszukiwania",
+            "users": "Użytkownicy",
+            "chats": "Czaty",
+            "music": "Muzyka"
+        },
+        "people": {
+            "sort": {
+                "title": "Sortowanie",
+                "relevant": "Według relewantności",
+                "popularity": "Według popularności",
+                "alphabet": "Według alfabetu"
+            },
+            "location": {
+                "title": "Lokalizacja",
+                "country": "Kraj",
+                "region": "Region",
+                "city": "Miasto"
+            },
+            "work": {
+                "title": "Miejsce pracy",
+                "placeholder": "Miejsce pracy użytkownika..."
+            },
+            "relationships": {
+                "title": "Stan cywilny",
+                "placeholder": "Nie wybrano"
+            },
+            "additional": {
+                "title": "Dodatkowo",
+                "online": "Teraz online",
+                "avatar": "Mają avatar"
+            }
+        },
+        "chats": {
+            "sort": {
+                "title": "Sortowanie",
+                "relevant": "Według relewantności",
+                "popularity": "Według popularności",
+                "alphabet": "Według alfabetu"
+            },
+            "type": {
+                "title": "Typ czatu",
+                "placeholder": "Nie wybrano",
+                "group": "Czat grupowy",
+                "channel": "Kanał"
+            },
+            "location": {
+                "title": "Lokalizacja",
+                "country": "Kraj"
+            },
+            "topic": {
+                "1": "Edukacja i rozwój",
+                "2": "Hobby i zainteresowania",
+                "3": "Praca i kariera",
+                "4": "Społeczeństwo i kultura",
+                "5": "Technologie i nauka",
+                "6": "Rozrywka i komunikacja",
+                "7": "Zdrowie i styl życia",
+                "8": "Podróże",
+                "9": "Biznes i finanse",
+                "10": "Społeczności lokalne",
+                "11": "Blog osobisty",
+                "title": "Tematyka",
+                "placeholder": "Nie wybrano"
+            },
+            "go": "Przejdź"
+        },
+        "button": "Zastosuj"
+    },
+    "profile": {
+        "banned": "Konto zostało zablokowane za naruszenie zasad platformy",
+        "deleted": "Użytkownik usunął swoje konto",
+        "stats": {
+            "posts1": "post",
+            "posts2": "posty",
+            "posts3": "postów",
+            "friends1": "Znajomy",
+            "friends2": "Znajomi",
+            "friends3": "Znajomych",
+            "followers1": "obserwator",
+            "followers2": "obserwatorzy",
+            "followers3": "obserwatorów"
+        },
+        "actions": {
+            "edit": "Edytuj profil",
+            "write": "Wiadomość"
+        },
+        "ad": "Reklama",
+        "tabs": {
+            "wall": "Ściana",
+            "about": "O mnie",
+            "friends": "Znajomi",
+            "groups": "Grupy",
+            "gifts": "Prezenty",
+            "media": "Media"
+        },
+        "wall": {
+            "languageSelect": {
+                "none": "Wszystkie języki",
+                "eng": "Angielski",
+                "uk": "Ukraiński",
+                "ru": "Rosyjski",
+                "pl": "Polski",
+                "selected": {
+                    "english": "Dla anglojęzycznych",
+                    "ukranian": "Dla ukraińskojęzycznych",
+                    "russian": "Dla rosyjskojęzycznych",
+                    "polish": "Dla polskojęzycznych"
+                }
+            },
+            "languages": {
+                "lang1": "Post w języku angielskim",
+                "lang2": "Post w języku ukraińskim",
+                "lang3": "Post w języku rosyjskim",
+                "lang4": "Post w języku polskim"
+            },
+            "nsfw": "Jeśli spoiler jest włączony, wszystkie materiały multimedialne będą rozmyte, ale po najechaniu kursorem będą wyświetlane wyraźnie.",
+            "about": {
+                "title": "O mnie",
+                "more": "Więcej informacji..."
+            },
+            "friends": {
+                "title": "Znajomi",
+                "more": "więcej"
+            },
+            "gifts": {
+                "title": "Prezenty",
+                "more": "więcej"
+            },
+            "repost": {
+                "wall": "Na moją ścianę",
+                "message": "W wiadomości"
+            },
+            "new": {
+                "postPreview": "Podgląd postu",
+                "context": {
+                    "copy": "Kopiuj",
+                    "paste": "Wklej",
+                    "highlight": "Zaznacz wszystko",
+                    "clear": "Wyczyść",
+                    "link": "Link",
+                    "additional": "Dodatkowo",
+                    "formatting": "Formatowanie",
+                    "bold": "Pogrubienie",
+                    "italic": "Kursywa",
+                    "monosphere": "Monospace",
+                    "crossed": "Przekreślenie",
+                    "underlined": "Podkreślenie",
+                    "trs": "Półprzezroczysty",
+                    "article": "Cytat",
+                    "lowercase": "Zmień na małe litery",
+                    "capital": "Zmień na wielkie litery",
+                    "uppercase": "Zmień na wielkie litery"
+                },
+                "link": {
+                    "title": "Dodaj URL",
+                    "url": {
+                        "title": "URL",
+                        "placeholder": "Twój URL..."
+                    },
+                    "text": {
+                        "title": "Tekst",
+                        "placeholder": "Twój tekst"
+                    },
+                    "button": "Dodaj link"
+                },
+                "post": "Post na ścianie %s",
+                "description": "Ten post będzie widoczny dla wszystkich, którzy mają dostęp do twojej strony i postów",
+                "textarea": "Zacznij pisać...",
+                "button": "Opublikuj",
+                "statuses": {
+                    "success": {
+                        "title": "Gotowe! Post został opublikowany.",
+                        "button": "Odśwież"
+                    }
+                }
+            },
+            "post": {
+                "copy": "Kopiuj tekst",
+                "link": "Kopiuj link",
+                "translate": "Przetłumacz na polski",
+                "analytics": "Analiza",
+                "ocr": "Rozpoznawanie tekstu",
+                "report": "Zgłoś",
+                "not_interesting": "Nie interesujące",
+                "not_interesting_action": "Będziemy starać się pokazywać mniej podobnych postów",
+                "edit": "Edytuj",
+                "delete": "Usuń",
+                "minutes": "min. do przeczytania",
+                "readmore": {
+                    "title": "Czytaj dalej...",
+                    "close": "Zwiń"
+                },
+                "delete_confirm": {
+                    "title": "Jesteś pewien?",
+                    "description": "Ta akcja spowoduje całkowite usunięcie postu. Nie będzie możliwe jego przywrócenie, nawet przez obsługę techniczną.",
+                    "confirm": "Potwierdź",
+                    "cancel": "Anuluj"
+                },
+                "edit_modal": {
+                    "title": "Edytuj post",
+                    "save": "Zapisz zmiany",
+                    "error": {
+                        "title": "O nie! Coś poszło nie tak",
+                        "button": "Zwiń"
+                    },
+                    "success": {
+                        "title": "Gotowe! Zmiany zostały zapisane.",
+                        "button": "Zwiń"
+                    }
+                }
+            }
+        },
+        "about": {
+            "info": "O mnie",
+            "general": "Podstawowe",
+            "birthday": "Data urodzenia",
+            "relationships": "Stan cywilny",
+            "country": "Kraj",
+            "city": "Miasto",
+            "location": "Lokalizacja",
+            "work": "Miejsce pracy",
+            "website": "Strona internetowa",
+            "native": "Miasto rodzinne",
+            "languages": "Języki",
+            "tag": "Tag",
+            "id": "Identyfikator",
+            "since": "Zarejestrowany"
+        }
+    },
+    "comments": {
+        "title": "Komentarze",
+        "comment": {
+            "copy": "Kopiuj",
+            "reply": "Odpowiedz",
+            "delete": "Usuń",
+            "report": "Zgłoś",
+            "delete_confirm": {
+                "title": "Jesteś pewien?",
+                "description": "Ta akcja spowoduje całkowite usunięcie komentarza. Nie będzie można go przywrócić, nawet przez obsługę techniczną",
+                "confirm": "Potwierdź",
+                "cancel": "Anuluj"
+            }
+        },
+        "more": "Pokaż więcej komentarzy..."
+    },
+    "messages": {
+        "title": "Wiadomości",
+        "chats": "Czaty",
+        "start_conversation": "Rozpocznij nową rozmowę",
+        "search_people": "Szukaj ludzi",
+        "loading": "Czekaj...",
+        "chat_start": "Wybierz czat do rozmowy",
+        "you": "Ty",
+        "photos1": "fotografia",
+        "photos2": "fotografie",
+        "photos3": "fotografii",
+        "attachments1": "załącznik",
+        "attachments2": "załączniki",
+        "attachments3": "załączników",
+        "voicemessage": "Wiadomość głosowa",
+        "dialog": {
+            "last_seen": "ostatnio widziany",
+            "online": "online",
+            "member": "członek",
+            "members": "członkowie",
+            "members1": "członków",
+            "members_count": "Członkowie",
+            "more": "Pokaż więcej",
+            "created": "Czat utworzony",
+            "join": "dołącza",
+            "leave": "wychodzi",
+            "dropdown": {
+                "description": "Opis",
+                "link": "Link",
+                "view_profile": "Wyświetl profil",
+                "block": "Zablokuj",
+                "report": "Raport",
+                "copy_uid": "Skopiuj ID użytkownika",
+                "mute": "Wycisz powiadomienia",
+                "unmute": "Włącz powiadomienia",
+                "leave_group": "Opuść grupę",
+                "leave_channel": "Opuść kanał",
+                "edit": "Edytuj",
+                "kick": "Wyrzuć"
+            },
+            "bottom": {
+                "placeholder": "Wiadomość",
+                "attach": {
+                    "photo": "Zdjęcie",
+                    "track": "Audio",
+                    "file": "Plik",
+                    "post": "Post"
+                },
+                "join": "Dołącz"
+            },
+            "typing": "pisze...",
+            "someone_is_typing": "pisze...",
+            "info": {
+                "title": {
+                    "user": "O użytkowniku",
+                    "group": "O grupie",
+                    "channel": "O kanale"
+                },
+                "leave": {
+                    "title": "Czekaj! Czy na pewno chcesz opuścić czat?",
+                    "confirm": "Potwierdź",
+                    "cancel": "Anuluj"
+                }
+            },
+            "edit": {
+                "title": {
+                    "group": "Edytuj grupę",
+                    "channel": "Edytuj kanał"
+                },
+                "name": {
+                    "title": "Nazwa",
+                    "placeholder": "Nazwa twojego czatu"
+                },
+                "description": {
+                    "title": "Opis",
+                    "placeholder": "Krótko o twoim czacie..."
+                },
+                "private": {
+                    "title": "Prywatność",
+                    "public": "Publiczny",
+                    "private": "Prywatny"
+                },
+                "link": {
+                    "title": "Link",
+                    "placeholder": "me.yurba.one/..."
+                },
+                "links": {
+                    "title": "Prywatne linki"
+                },
+                "button": "Zapisz",
+                "errors": {
+                    "fields": {
+                        "title": "O nie! Niektóre pola nie zostały wypełnione.",
+                        "button": "Zwiń"
+                    },
+                    "link_exists": {
+                        "title": "O nie! Tag jest już zajęty.",
+                        "button": "Zwiń"
+                    }
+                },
+                "success": {
+                    "title": "Gotowe! Ustawienia zostały zapisane.",
+                    "button": "Zwiń"
+                }
+            }
+        },
+        "context": {
+            "reply": "Odpowiedz",
+            "copy": "Kopiuj",
+            "delete": {
+                "title": "Usuń",
+                "question": {
+                    "title": "Czekaj! Czy na pewno chcesz usunąć wiadomość dla wszystkich użytkowników?",
+                    "confirm": "Potwierdź",
+                    "cancel": "Anuluj"
+                }
+            },
+            "select": {
+                "title": "Wybierz"
+            },
+            "edit": "Edytuj"
+        },
+        "add_attachment": {
+            "title": "Dodaj załącznik",
+            "upload_a_file": "Prześlij plik",
+            "upload_desc": "Zdjęcie zostanie dołączone razem z tekstem, który zostanie wpisany w głównym oknie wiadomości",
+            "cancel": "Anuluj",
+            "send": "Wyślij",
+            "send_photo": "Wyślij zdjęcie",
+            "send_vector_photo": "Wyślij wektor",
+            "send_gif": "Wyślij GIF",
+            "send_html": "Wyślij HTML",
+            "send_file": "Wyślij plik",
+            "file_too_large": "Plik jest zbyt duży. Maksimum: %sMB"
+        },
+        "add_url": {
+            "title": "Dodaj adres URL",
+            "your_url": "Twój adres URL...",
+            "your_text": "Twój tekst...",
+            "text": "Tekst",
+            "add_link": "Dodaj"
+        },
+        "create": {
+            "title": "Utwórz nowy czat",
+            "select": {
+                "title": "Wybierz typ czatu",
+                "group": "Czat grupowy",
+                "channel": "Kanał"
+            },
+            "name": {
+                "title": "Nazwa",
+                "placeholder": "Nazwa twojego czatu"
+            },
+            "description": {
+                "title": "Opis (nieobowiązkowy)",
+                "placeholder": "Krótko o twoim czacie..."
+            },
+            "button": "Przejdź dalej",
+            "errors": {
+                "fields": {
+                    "title": "O nie! Niektóre pola nie zostały wypełnione.",
+                    "button": "Zwiń"
+                }
+            }
+        }
+    },
+    "friends": {
+        "title": "Znajomi",
+        "incoming": "Wchodzące zaproszenia",
+        "outcoming": "Wychodzące zaproszenia",
+        "more": "Pokaż więcej",
+        "write": "Wiadomość",
+        "profile": "Wyświetl profil",
+        "work": "Pracuje w"
+    },
+    "music": {
+        "title": "Muzyka",
+        "subtitle": "Witaj!",
+        "description": "Witaj w swojej muzycznej przestrzeni! Jakie masz plany na dziś?",
+        "search": "Znajdź utwór",
+        "playlists": "Playlisty",
+        "single": "Singel",
+        "ep": "Mini-album",
+        "album": "Album",
+        "playlist": {
+            "title": "Playlist",
+            "nodesc": "Opis nie został podany",
+            "author": "Utworzono przez:",
+            "play": "Odtwórz",
+            "edit": "Edytuj",
+            "track": {
+                "delete": "Usuń",
+                "up": "Przenieś do góry",
+                "down": "Przenieś do dołu",
+                "page": "Szczególna informacja",
+                "add": "Dodaj do playlisty",
+                "report": "Zgłoś"
+            }
+        },
+        "track": {
+            "title": "Utwór audio",
+            "id": "ID utworu:",
+            "play": "Odtwórz",
+            "author": {
+                "description": "Utwór audio został przesłany przez: %s<br>Jeśli jesteś właścicielem tego utworu i nie chcesz, aby był on tutaj, skontaktuj się z nami",
+                "info": "Pobierz lub dodaj utwór do swojej playlisty"
+            },
+            "download": "Pobierz",
+            "add": "Dodaj do playlisty",
+            "edit": {
+                "title": "Edytuj"
+            }
+        },
+        "my": {
+            "short": "Ulubione",
+            "description": "Twoja ulubiona muzyka",
+            "title": "Ulubione utwory"
+        },
+        "tracks1": "utwór",
+        "tracks2": "utwory",
+        "tracks3": "utworów",
+        "tracklist": {
+            "name": "Nazwa",
+            "release": "Wydanie",
+            "size": "Rozmiar",
+            "mb": "MB"
+        },
+        "playlistUpload": {
+            "title": "Utwórz listę odtwarzania",
+            "name": {
+                "title": "Nazwa",
+                "placeholder": "Nazwa listy odtwarzania..."
+            },
+            "release": {
+                "title": "Rok wydania (nieobowiązkowy)",
+                "placeholder": "Rok wydania listy odtwarzania..."
+            },
+            "description": {
+                "title": "Opis (nieobowiązkowy)",
+                "placeholder": "Opis listy odtwarzania..."
+            },
+            "cover": "Okładka (nieobowiązkowa)",
+            "button": "Wyślij",
+            "errors": {
+                "fields": {
+                    "title": "O nie! Niektóre pola nie zostały wypełnione.",
+                    "button": "Zwiń"
+                }
+            },
+            "success": {
+                "title": "Gotowe! Lista odtwarzania została utworzona.",
+                "button": "Zwiń"
+            }
+        },
+        "playlistEdit": {
+            "title": "Edytuj playlistę",
+            "name": {
+                "title": "Nazwa",
+                "placeholder": "Nazwa playlisty..."
+            },
+            "release": {
+                "title": "Rok wydania (nieobowiązkowy)",
+                "placeholder": "Rok wydania playlisty..."
+            },
+            "description": {
+                "title": "Opis (nieobowiązkowy)",
+                "placeholder": "Opis playlisty..."
+            },
+            "submit": "Gotowe",
+            "delete": {
+                "title": "Usuń",
+                "question": {
+                    "title": "Czekaj! Czy na pewno chcesz usunąć playlistę?",
+                    "confirm": "Potwierdź",
+                    "cancel": "Anuluj"
+                },
+                "success": {
+                    "title": "Gotowe! Playlista została usunięta.",
+                    "button": "Do moich utworów"
+                }
+            },
+            "errors": {
+                "fields": {
+                    "title": "O nie! Niektóre pola nie zostały wypełnione.",
+                    "button": "Zwiń"
+                }
+            },
+            "success": {
+                "title": "Gotowe! Informacje zostały zapisane.",
+                "button": "Zwiń"
+            }
+        },
+        "trackUpload": {
+            "title": "Prześlij utwór",
+            "name": {
+                "title": "Nazwa",
+                "placeholder": "Nazwa utworu..."
+            },
+            "author": {
+                "title": "Imię autora",
+                "placeholder": "Imię wykonawcy utworu..."
+            },
+            "release": {
+                "title": "Rok wydania (nieobowiązkowy)",
+                "placeholder": "Rok wydania utworu..."
+            },
+            "cover": "Okładka (nieobowiązkowa)",
+            "audio": "Plik audio",
+            "button": "Prześlij",
+            "errors": {
+                "fields": {
+                    "title": "O nie! Niektóre pola nie zostały wypełnione.",
+                    "button": "Zwiń"
+                }
+            },
+            "success": {
+                "title": "Gotowe! Twój ID utworu:",
+                "button": "Zwiń"
+            }
+        },
+        "playlistTrack": {
+            "title": "Dodaj utwór do playlisty",
+            "button": "Wyślij",
+            "errors": {
+                "fields": {
+                    "title": "O nie! Wybierz przynajmniej jedną playlistę.",
+                    "button": "Zwiń"
+                },
+                "exists": {
+                    "title": "O nie! Utwór już został dodany do playlisty.",
+                    "button": "Zwiń"
+                }
+            },
+            "success": {
+                "title": "Gotowe! Utwór został dodany.",
+                "button": "Zwiń"
+            }
+        },
+        "tracksModal": {
+            "title": "Wybierz utwór z ulubionych",
+            "more": "Pokaż więcej"
+        }
+    },
+    "photos": {
+        "photosModal": {
+            "title": "Wybierz zdjęcie",
+            "more": "Zobacz więcej",
+            "placeholder": "<i class='icd icd-upload'></i>Wybierz ze zdjęć załadowanych",
+            "uploaded": "<i class='icd icd-checkmark-singly'></i>Zdjęcie wybrane",
+            "upload": "Dodaj"
+        },
+        "photoUpload": {
+            "title": "Dodaj nowe zdjęcie",
+            "description": "Wybierz plik lub przeciągnij go tutaj.",
+            "button": "Gotowe",
+            "errors": {
+                "extensions": {
+                    "title": "O nie! Dozwolone rozszerzenia: ",
+                    "button": "Zwiń"
+                }
+            }
+        }
+    },
+    "settings": {
+        "title": "Ustawienia",
+        "profile": {
+            "title": "Profil",
+            "description": "Ustawienia profilu: zmiana awatara i baneru, edycja danych konta i ustawienia postów",
+            "personality": "Informacje osobiste",
+            "account": "Konto",
+            "first_name": {
+                "title": "Imię",
+                "placeholder": "Twoje imię..."
+            },
+            "second_name": {
+                "title": "Nazwisko",
+                "placeholder": "Twoje nazwisko..."
+            },
+            "work": {
+                "title": "Miejsce pracy",
+                "placeholder": "Pracuję w..."
+            },
+            "website": {
+                "title": "Strona internetowa",
+                "warning": {
+                    "title": "UWAGA!",
+                    "description": "Zwróć uwagę, że linki, które mogą wyrządzić szkodę użytkownikom, zostaną umieszczone na czarnej liście, a ty zostaniesz ukarany"
+                }
+            },
+            "relationships": "Stan cywilny",
+            "birthday": "Data urodzenia",
+            "status": {
+                "title": "Status",
+                "placeholder": "Co nowego?"
+            },
+            "about": {
+                "title": "O mnie",
+                "placeholder": "Kilka słów o tobie..."
+            },
+            "language": "Język",
+            "country": {
+                "title": "Kraj",
+                "placeholder": "Nie wybrano"
+            },
+            "region": {
+                "title": "Region",
+                "placeholder": "Nie wybrano"
+            },
+            "city": {
+                "title": "Miasto",
+                "placeholder": "Nie wybrano"
+            },
+            "languages": {
+                "title": "Języki",
+                "placeholder": "Nie wybrano"
+            },
+            "native": {
+                "title": "Miasto rodzinne",
+                "placeholder": "Twoje miasto rodzinne..."
+            },
+            "email": {
+                "title": "E-mail",
+                "placeholder": "Główny e-mail..."
+            },
+            "reserve": {
+                "title": "Rezerwowy e-mail",
+                "placeholder": "Zapasowy e-mail..."
+            },
+            "tag": "Tag użytkownika",
+            "button": "Zapisz ustawienia profilu",
+            "delete": {
+                "title": "Usuń konto",
+                "question": {
+                    "title": "Czekaj! Czy na pewno chcesz usunąć konto? Będziesz mógł je przywrócić w ciągu 6 miesięcy.",
+                    "confirm": "Potwierdź",
+                    "cancel": "Anuluj"
+                },
+                "success": {
+                    "title": "Gotowe! Konto zostało usunięte.",
+                    "button": "Zwiń"
+                }
+            },
+            "other": "Inne",
+            "online": {
+                "title": "Status online",
+                "online": "Online",
+                "dont_disturb": "Nie przeszkadzać",
+                "moved_away": "Odszedł"
+            },
+            "original": {
+                "title": "Oryginalne konto",
+                "subtitle": "ID wskazanego konta musi być w Twoich znajomych.",
+                "placeholder": "ID konta..."
+            },
+            "emoji": {
+                "title": "Emodźi",
+                "placeholder": "Emodźi obok imienia..."
+            },
+            "password": {
+                "title": "Zmiana hasła",
+                "old": {
+                    "title": "Stare hasło",
+                    "placeholder": "Stare hasło..."
+                },
+                "new": {
+                    "title": "Nowe hasło",
+                    "placeholder": "Twoje nowe hasło..."
+                },
+                "retype": {
+                    "title": "Potwierdź hasło",
+                    "placeholder": "Powtórz nowe hasło..."
+                },
+                "button": "Zmień hasło",
+                "errors": {
+                    "fields": {
+                        "title": "O nie! Niektóre pola nie zostały wypełnione.",
+                        "button": "Zwiń"
+                    },
+                    "match": {
+                        "title": "O nie! Hasła nie pasują.",
+                        "button": "Zwiń"
+                    },
+                    "incorrect_password": {
+                        "title": "O nie! Niepoprawne hasło.",
+                        "button": "Zwiń"
+                    },
+                    "short": {
+                        "title": "O nie! Hasło jest za krótkie. (minimum 6 znaków)",
+                        "button": "Zwiń"
+                    }
+                },
+                "success": {
+                    "title": "Gotowe! Hasło zostało zmienione.",
+                    "button": "Zwiń"
+                }
+            },
+            "errors": {
+                "fields": {
+                    "title": "O nie! Niektóre pola nie zostały wypełnione.",
+                    "button": "Zwiń"
+                },
+                "invalid_email": {
+                    "title": "O nie! Niepoprawny adres e-mail.",
+                    "button": "Zwiń"
+                },
+                "email_exists": {
+                    "title": "O nie! Adres e-mail jest już zajęty.",
+                    "button": "Zwiń"
+                },
+                "link_exists": {
+                    "title": "O nie! Tag jest już zajęty.",
+                    "button": "Zwiń"
+                }
+            },
+            "success": {
+                "title": "Gotowe! Ustawienia zostały zapisane.",
+                "button": "Przeładuj"
+            }
+        },
+        "privacy": {
+            "title": "Prywatność",
+            "description": "Kto może oglądać Twoje posty, komentować i dodawać Cię do znajomych itd.",
+            "online": {
+                "title": "Typ online",
+                "description": "Jeśli nie chcesz, aby inni widzieli, kiedy jesteś online",
+                "time": "Dokładny czas",
+                "approximate": "Przybliżony czas",
+                "invisible": "Niewidoczny"
+            },
+            "post_on_wall": {
+                "title": "Kto może pisać na mojej ścianie?",
+                "description": "Jeśli nie chcesz, aby obcy ludzie zalewali Twoją ścianę, ustaw „Tylko znajomi\"",
+                "all": "Każdy",
+                "friends": "Tylko znajomi",
+                "nobody": "Nikt"
+            },
+            "comment_on_wall": {
+                "title": "Kto może komentować moje posty?",
+                "description": "Jeśli nie chcesz, aby obcy ludzie zalewali Twoje komentarze, ustaw „Tylko znajomi\"",
+                "all": "Każdy",
+                "friends": "Tylko znajomi",
+                "nobody": "Nikt"
+            },
+            "add_friend": {
+                "title": "Kto może dodawać mnie do znajomych?",
+                "description": "Jeśli nie chcesz, aby Ci przychodziły prośby o dodanie do znajomych, ustaw „Nikt\"",
+                "all": "Każdy",
+                "nobody": "Nikt"
+            },
+            "view_friends": {
+                "title": "Kto może oglądać listę moich znajomych?",
+                "description": "Jeśli nie chcesz, aby obcy ludzie widzieli listę Twoich znajomych, ustaw „Tylko znajomi\"",
+                "all": "Każdy",
+                "friends": "Tylko znajomi",
+                "nobody": "Nikt"
+            },
+            "send_message": {
+                "title": "Kto może pisać mi wiadomości?",
+                "description": "Jeśli nie chcesz, aby obcy ludzie zalewali Twoje prywatne wiadomości, ustaw „Tylko znajomi\"",
+                "all": "Każdy",
+                "friends": "Tylko znajomi",
+                "nobody": "Nikt"
+            },
+            "view_avatar": {
+                "title": "Kto może oglądać mój awatar i baner?",
+                "description": "Jeśli nie chcesz, aby obcy ludzie widzieli Twój awatar i baner, ustaw „Tylko znajomi\"",
+                "all": "Każdy",
+                "friends": "Tylko znajomi",
+                "nobody": "Nikt"
+            },
+            "view_birthday": {
+                "title": "Jak będzie wyglądała data mojego urodzenia?",
+                "full": "Całkowicie",
+                "semi": "Tylko miesiąc i dzień",
+                "none": "Nie pokazywać"
+            },
+            "search": {
+                "title": "Czy pozwolić użytkownikom szukać mojej strony w wyszukiwarce?",
+                "description": "Jeśli nie chcesz, aby Twój profil można było znaleźć w wyszukiwarce, ustaw „Zabronić\"",
+                "allow": "Pozwolić",
+                "disallow": "Zabronić"
+            },
+            "button": "Zapisz",
+            "success": {
+                "title": "Gotowe! Ustawienia zostały zapisane.",
+                "button": "Zwiń"
+            }
+        },
+        "notifications": {
+            "title": "Powiadomienia",
+            "description": "Ustawienia parametrów powiadomień."
+        },
+        "messenger": {
+            "title": "Wiadomości",
+            "description": "Ustawienia tematu komunikatora, czatów",
+            "theme": {
+                "title": "Tema",
+                "description": "Możesz wybrać wcześniej ustawioną temat kolorystyczną",
+                "default": "Domyślna",
+                "carbon": "Węglowa",
+                "dialog": {
+                    "other": {
+                        "0": "Jak się masz?",
+                        "1": "Także. Spójrz: <font class='font-monospace'>ja mogę tu pisać kod!</font>"
+                    },
+                    "me": {
+                        "0": "Świetnie, a Ty?",
+                        "1": "Dobrze, ale ja mogę robić swój tekst <span class='fw-bold'>pogrubionym</span> "
+                    }
+                }
+            },
+            "button": "Zapisz"
+        },
+        "security": {
+            "title": "Bezpieczeństwo",
+            "description": "Tutaj możesz śledzić wszystkie działania w Twoim koncie",
+            "sessions": {
+                "title": "Sesje",
+                "device": "Urządzenie",
+                "last_been": "Ostatnia aktywność",
+                "token_created": "Token utworzony",
+                "delete": {
+                    "question": {
+                        "title": "Czekaj! Naprawdę chcesz usunąć token?",
+                        "confirm": "Potwierdź",
+                        "cancel": "Anuluj"
+                    },
+                    "success": {
+                        "title": "Gotowe! Token usunięty.",
+                        "button": "Zwiń"
+                    }
+                }
+            }
+        },
+        "dev": {
+            "title": "Dla deweloperów",
+            "description": "Twoje aplikacje i działania z innymi aplikacjami.",
+            "apps": {
+                "title": "Aplikacje",
+                "name": "Nazwa",
+                "public": "Klucz publiczny",
+                "secret": "Klucz tajny",
+                "redirect": "Adres URL przekierowania",
+                "delete": {
+                    "question": {
+                        "title": "Czekaj! Naprawdę chcesz usunąć aplikację?",
+                        "confirm": "Potwierdź",
+                        "cancel": "Anuluj"
+                    },
+                    "success": {
+                        "title": "Gotowe! Aplikacja usunięta.",
+                        "button": "Zwiń"
+                    }
+                },
+                "create": {
+                    "title": "Utwórz aplikację",
+                    "name": {
+                        "title": "Nazwa",
+                        "placeholder": "Nazwa Twojej aplikacji"
+                    },
+                    "redirect": {
+                        "title": "Adres URL przekierowania",
+                        "placeholder": "Strona, na którą nastąpi przekierowanie"
+                    },
+                    "button": "Utwórz",
+                    "errors": {
+                        "fields": {
+                            "title": "O nie! Niektóre pola nie zostały wypełnione.",
+                            "button": "Zwiń"
+                        }
+                    },
+                    "success": {
+                        "title": "Gotowe! Aplikacja utworzona.",
+                        "button": "Przeładuj"
+                    }
+                }
+            },
+            "tokens": {
+                "title": "Twoje tokeny w aplikacjach",
+                "app": "Aplikacja",
+                "last_been": "Ostatnie logowanie",
+                "token_created": "Token utworzony",
+                "delete": {
+                    "question": {
+                        "title": "Czekaj! Naprawdę chcesz usunąć token?",
+                        "confirm": "Potwierdź",
+                        "cancel": "Anuluj"
+                    },
+                    "success": {
+                        "title": "Gotowe! Token usunięty.",
+                        "button": "Zwiń"
+                    }
+                }
+            }
+        },
+        "verify": {
+            "title": "Weryfikacja"
+        },
+        "sub": {
+            "title": "Subskrypcja"
+        },
+        "golink": {
+            "title": "GOLink",
+            "description": "Zarządzanie profilami serwisu GOLink",
+            "button": "Utwórz",
+            "pages": {
+                "name": "Nazwa",
+                "tag": "Tag",
+                "created": "Utworzono",
+                "edit": {
+                    "title": "Edycja strony",
+                    "name": {
+                        "title": "Nazwa",
+                        "placeholder": "Nazwa strony"
+                    },
+                    "tag": {
+                        "title": "Tag",
+                        "placeholder": "Tag strony"
+                    },
+                    "description": {
+                        "title": "Opis",
+                        "placeholder": "Coś o Twojej stronie..."
+                    },
+                    "links": "Linki",
+                    "link": {
+                        "name": "Nazwa linku",
+                        "url": "Adres URL linku"
+                    },
+                    "button": "Zapisz",
+                    "errors": {
+                        "fields": {
+                            "title": "O nie! Niektóre pola nie zostały wypełnione.",
+                            "button": "Zwiń"
+                        },
+                        "link_exists": {
+                            "title": "O nie! Tag jest już zajęty.",
+                            "button": "Zwiń"
+                        }
+                    },
+                    "success": {
+                        "title": "Gotowe! Ustawienia zostały zapisane.",
+                        "button": "Zwiń"
+                    }
+                },
+                "delete": {
+                    "question": {
+                        "title": "Czekaj! Naprawdę chcesz usunąć stronę?",
+                        "confirm": "Potwierdź",
+                        "cancel": "Anuluj"
+                    },
+                    "success": {
+                        "title": "Gotowe! Stronę usunięto.",
+                        "button": "Zwiń"
+                    }
+                }
+            },
+            "create": {
+                "title": "Utwórz stronę",
+                "name": {
+                    "title": "Nazwa",
+                    "placeholder": "Nazwa strony"
+                },
+                "tag": {
+                    "title": "Tag",
+                    "placeholder": "Tag strony"
+                },
+                "description": {
+                    "title": "Opis",
+                    "placeholder": "Coś o Twojej stronie..."
+                },
+                "button": "Utwórz",
+                "errors": {
+                    "fields": {
+                        "title": "O nie! Niektóre pola nie zostały wypełnione.",
+                        "button": "Zwiń"
+                    },
+                    "link_exists": {
+                        "title": "O nie! Tag jest już zajęty.",
+                        "button": "Zwiń"
+                    }
+                },
+                "success": {
+                    "title": "Gotowe! Stronę utworzono.",
+                    "button": "Przeładuj"
+                }
+            }
+        },
+        "void": {
+            "title": "VOIDSERVER",
+            "gd": {
+                "title": "Geometry Dash",
+                "description": "Zintegrowana panel zarządzania Geometry Dash Void Server.",
+                "buttons": {
+                    "link": "Przywiązać",
+                    "register": "Utwórz"
+                },
+                "link": {
+                    "title": "Przywiązać konto",
+                    "list": {
+                        "1": "Wyślij prośbę o przywiązanie przez tę formę",
+                        "2": "Wprowadź otrzymany kod w grze przez komendę !link [kod]",
+                        "3": "Konto zostało pomyślnie przywiązane!"
+                    },
+                    "name": {
+                        "title": "Nazwa",
+                        "placeholder": "Nazwa konta"
+                    },
+                    "button": "Wyślij",
+                    "success": {
+                        "title": "Oczekiwanie na przywiązanie... Twój kod:",
+                        "button": "Zwiń"
+                    }
+                },
+                "register": {
+                    "title": "Utwórz nowe konto",
+                    "login": {
+                        "title": "Login",
+                        "placeholder": "Wprowadź login konta"
+                    },
+                    "email": {
+                        "title": "E-mail",
+                        "placeholder": "Wprowadź e-mail konta"
+                    },
+                    "password": {
+                        "title": "Hasło",
+                        "placeholder": "Wprowadź hasło konta"
+                    },
+                    "confirm": {
+                        "title": "Potwierdź hasło",
+                        "placeholder": "Powtórz hasło konta"
+                    },
+                    "tof": "Zgadzam się z <a href='https://gdvs.yurba.one/rules'>Regulaminem korzystania</a> GD Void Server",
+                    "button": "Kontynuuj",
+                    "errors": {
+                        "match": {
+                            "title": "O nie! Hasła nie pasują.",
+                            "button": "Zwiń"
+                        },
+                        "name": {
+                            "title": "O nie! Nazwa jest zbyt krótka.",
+                            "button": "Zwiń"
+                        },
+                        "password": {
+                            "title": "O nie! Hasło jest zbyt krótkie.",
+                            "button": "Zwiń"
+                        },
+                        "name_exists": {
+                            "title": "O nie! Nazwa jest już zajęta.",
+                            "button": "Zwiń"
+                        },
+                        "accounts": {
+                            "title": "O nie! Za dużo kont. 5/5.",
+                            "button": "Zwiń"
+                        }
+                    },
+                    "success": {
+                        "title": "Gotowe! Konto zostało zarejestrowane. Możesz się zalogować w grze.",
+                        "button": "Zwiń"
+                    }
+                },
+                "accounts": {
+                    "name": "Nazwa",
+                    "stars": "Gwiazdki",
+                    "vorbs": "Vorby",
+                    "created": "Utworzono",
+                    "lastBeen": "Ostatni login"
+                }
+            }
+        },
+        "verification": {
+            "modal-title": "Weryfikacja",
+            "title": "Witamy!",
+            "default": "Otrzymałeś znak weryfikacji w postaci znaku potwierdzającego Twój profil. Teraz jesteś o krok bliżej do światowej sławy",
+            "org": "Twoją organizację oficjalnie potwierdzono. Oznacza to, że teraz jesteś uznany za pełnoprawną firmę/organizację w Yurba",
+            "gov": "Twoja strona została oficjalnie potwierdzona jako strona rządowa. Oznacza to, że uznaliśmy, że Twoja strona jest oficjalna na poziomie rządowym",
+            "buttons": {
+            "close": "Zamknij",
+            "send": "Wyślij konto do weryfikacji",
+            "thanks": "Dziękuję!"
+        },
+        "msg": "Witaj! Chciałbym zostać zweryfikowanym w Yurba.",
+        "notverify": {
+            "title": "Przejdź przez weryfikację w kilku krokach!",
+            "about": "Jeśli uważasz się za osobę publiczną lub popularnego blogera, muzyka czy innego twórcę treści i jesteś przekonany, że potrzebujesz weryfikacji, to zapoznaj się z warunkami i możliwościami poniżej",
+            "acts": {
+                    "conditions": {
+                    "title": "Warunki weryfikacji",
+                    "rec": {
+                        "title": "Rozpoznawalność",
+                        "about": "Musisz być rozpoznawalny. Jeśli jesteś znany w wąskich kręgach, to nie jest to wystarczające, ponieważ musisz być znany w szerokich kręgach i mieć dobrą reputację"
+                    },
+                    "comprof": {
+                        "title": "Zapełniony profil",
+                        "about": "Profil, który chcesz zweryfikować, musi być w pełni zapełniony wiarygodnymi i pełnymi informacjami, aby ułatwić proces weryfikacji. Musisz również jasno określić, kim jesteś - osobą fizyczną czy organizacją. Możesz pozostawić niezapełnione tylko pola 'Relacje' i 'Miasto rodzinne'"
+                    },
+                    "activity": {
+                        "title": "Aktywność",
+                        "about": "Musisz publikować co najmniej 1 post tygodniowo, aby nie stracić weryfikacji. Najlepiej, aby te posty były jak najbardziej treściwe"
+                    },
+                    "censor": {
+                        "title": "Cenzura",
+                        "about": "Zalecane jest nie publikowanie postów z nadmierną ilością słów niecenzuralnych i/lub obraźliwych. Staraj się, aby Twoje posty były jak najbardziej 'przyjazne' dla użytkowników"
+                    }
+                    },
+                    "opport": {
+                      "title": "Możliwości",
+                      "fol": {
+                        "title": "Pierwszy w liście",
+                        "about": "Zweryfikowane profile zawsze będą pierwsze w wynikach wyszukiwania, jeśli jest to możliwe. Daje Ci to większe szanse na znalezienie popularnej osoby"
+                      },
+                      "nomiss": {
+                            "title": "Nikt... nikt się nie pomyli!",
+                            "about": "Weryfikacja pozwoli wszystkim upewnić się, że jesteś sobą. Każda odznaka obok Twojego imienia oznacza, że użytkownik trafił na właściwy profil."
+                        }
+                    },
+                    "desc": "Jeśli jesteś przekonany, że weryfikacja jest dla Ciebie odpowiednia, kliknij przycisk 'Wyślij konto do weryfikacji'."
+                }
+            }
+        }
+    },
+    "shop": {
+        "title": "Sklep",
+        "inventory": "Twój inwentarz",
+        "nothing": "Nic tu nie ma...",
+        "send": "Wyślij",
+        "apply": "Zastosuj",
+        "more": "Zobacz więcej",
+        "friends": {
+            "title": "Wybierz przyjaciela",
+            "more": "Pokaż więcej",
+            "success": {
+                "title": "Gotowe! Przedmiot wysłany.",
+                "button": "Zwiń"
+            }
+        },
+        "purchase": {
+            "success": {
+                "title": "Gotowe! Przedmiot kupiony.",
+                "button": "Zwiń"
+            },
+            "error": {
+                "title": "O nie! Na Twoim koncie nie ma wystarczających środków.",
+                "button": "Zwiń"
+            }
+        },
+        "categories": {
+            "1": {
+                "title": "Prezenty",
+                "description": "Zrób prezent swojemu przyjacielowi, który będzie widoczny w jego profilu."
+            }
+        }
+    }
+}
